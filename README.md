@@ -21,3 +21,4 @@ Call-in number was 1 (516) 882 0164 (Apparently registered in Messapequa, New Yo
 
 ## Archive
 Latest archive of index.htm: https://web.archive.org/web/20031211231336/http://csradio.counter-strike.net/index.htm  
+Latest archive of /: https://web.archive.org/web/20031220125741/http://csradio.counter-strike.net:80/
