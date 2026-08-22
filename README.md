@@ -13,6 +13,7 @@ Live shows were held on Sundays at 8PM EST.
 
 ## Known episodes and recordings
 \* Episode file names are formatted `mmddyy.mp3`. For example 102101.mp3 would be a recording from November 21, 2001.
+### 2000
 - recon2000.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/recon2000.mp3) / [Youtube](https://youtu.be/jhHiF8n7vDo) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/recon2000.txt)) - One of the 3 episodes recorded at a large CS LAN party Recon2000 on 29th June 2001.
 - 070801.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/070801.mp3) / [Youtube](https://youtu.be/0wuJA45azEk) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/070801.txt)) - Recon2000 recap episode, recorded 1 week after the event.
 - 081201.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/081201.mp3) / [Youtube](https://youtu.be/W4X-PzFiGXs) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/081201.txt)) - ???
@@ -20,6 +21,14 @@ Live shows were held on Sundays at 8PM EST.
 - 100701.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/100701.mp3) / [Youtube](https://youtu.be/ETWgsG_queQ) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/100701.txt)) - ???
 - 102101.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/102101.mp3) / [Youtube](https://youtu.be/YOYekSSCOYk) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/102101.txt)) - ???
 - 111801.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/111801.mp3) / [Youtube](https://youtu.be/Voh83FBX2gU) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/111801.txt)) - ???
+
+### Episodes with an unknown date
+- unknowndate_iloveyou.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/unknowndate_iloveyou.mp3) / [Youtube](https://youtu.be/t9bFb7wzklg)) - "The Show that started a movement of men telling other men "I Love you" before they hang up the phone. (starts at 17:30) oh yea 1.6 CS update delayed and steam beta"
+- unknowndate_new_number.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/unknowndate_new_number.mp3) / [Youtube](https://youtu.be/OElWfLozuuU)) - "Laserguidedbunnyrabbit's brother calls in, Dane cook calls in. Talk about CS 1.4, lots of calls.. Timmay! Dead air at the start and end is due to music.. going to edit those out in the future"
+
+### Nebby
+- nebby_intro_show.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/other_recordings/nebby_intro_show.mp3) / [Youtube](https://youtu.be/xeSz_RVeBiA)) - "Nebby calls in, Rico call, Nebby intro and top 10"
+
 
 ## Missing recordings
 <details>
