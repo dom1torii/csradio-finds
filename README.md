@@ -92,7 +92,7 @@ Live shows were held on Sundays at 8PM EST.
   - 022403.mp3 - Last CSRadio show.
 </details>
 <details>
-  <sumary><h3>Recon2000</h3></sumary>
+  <summary><h3>Recon2000</h3></sumary>
   There was a total of 3 parts of recon2000 recordings, 2 of which are missing
 </details>
 <details>
