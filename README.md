@@ -128,11 +128,11 @@ Call-in number was 1 (516) 882 0164 (Apparently registered in Messapequa, New Yo
 ## Archive
 Latest archive of index.htm: https://web.archive.org/web/20031211231336/http://csradio.counter-strike.net/index.htm  
 Latest archive of /: https://web.archive.org/web/20031220125741/http://csradio.counter-strike.net:80/  
-Latest archive of the CSRadio forum: https://web.archive.org/web/20040206134631/http://csradio.counter-strike.net/cgi-bin/ubb/ultimatebb.cgi?ubb=forum&f=1
-Archive of almost every single CSRadio episode (not downloadable): https://web.archive.org/web/20031121175311/http://www.cscentral.com/files/pafiledb.php?action=category&id=1
-Old CSRadio site: https://web.archive.org/web/20011130062320/http://csradio.anticheater.com/
-Alternative URL? / Mirror?: https://web.archive.org/web/20021121112932/http://www.cs-radio.com:80/
-Some files: https://web.archive.org/web/20010202072900if_/http://file.cs-radio.com:80/
+Latest archive of the CSRadio forum: https://web.archive.org/web/20040206134631/http://csradio.counter-strike.net/cgi-bin/ubb/ultimatebb.cgi?ubb=forum&f=1  
+Archive of almost every single CSRadio episode (not downloadable): https://web.archive.org/web/20031121175311/http://www.cscentral.com/files/pafiledb.php?action=category&id=1  
+Old CSRadio site: https://web.archive.org/web/20011130062320/http://csradio.anticheater.com/  
+Alternative URL? / Mirror?: https://web.archive.org/web/20021121112932/http://www.cs-radio.com:80/  
+Some files: https://web.archive.org/web/20010202072900if_/http://file.cs-radio.com:80/  
 
 
 
