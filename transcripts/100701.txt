@@ -1,0 +1,2471 @@
+ We're always worried about follow-on attack.
+ That's right.
+ That's the Barney one.
+ That's the Barney one, okay.
+ Welcome to...
+ Barney Blast!
+ Green Wreck Radio.
+ Fuck it!
+ Down to the graphic nature.
+ Fuck it!
+ Of this program.
+ Fuck it!
+ Listener discretion is advised.
+ It's fucking hostile!
+ I heard they're coming out of the mountain called...
+ With This.
+ It's like one track.
+ Just one, like, 52-minute song.
+ You know, make it impossible for somebody to burn an mp3 out of it.
+ But we can't.
+ You know.
+ Just to piss them the fuck off.
+ Yeah, because, you know, Steve has his outfit.
+ Where did they go?
+ Where did they go?
+ All right.
+ It's Sunday.
+ It's 8 o'clock.
+ Actually, it's 8.07.
+ 8.07.
+ We had a little bit of testicle difficulty before the phone, but...
+ Before the show with the phone, but hey, we worked them out before the show started this time.
+ What the hell is that?
+ What the hell is that?
+ Nice.
+ Hey.
+ Hey, Steve.
+ What the hell is that?
+ That's our first dollar.
+ We're on our way to make millions.
+ That's right.
+ That's $1,900,999 to go, baby.
+ That's the $1 we've made from somebody buying a t-shirt.
+ Cool.
+ All right.
+ Man.
+ Hey, it's been a good day all around.
+ Somebody bought a t-shirt.
+ We're bombing Afghanistan.
+ That's nice.
+ So, we got a whole buttload of people in there.
+ Hey, you want to see something really cool?
+ Karen came out with this new little IRC script stuff.
+ Let's see.
+ Fake?
+ Fake?
+ Yeah.
+ Fake fake.
+ Wait, wait.
+ Sayings?
+ Oh, it hurt.
+ Let's call him a pervert.
+ Uh-huh.
+ Nice.
+ Gaysex.com.
+ Spend a booze list.
+ Nice.
+ Nice.
+ Poor Karen.
+ Karen's saying to himself, I shouldn't have never given that fuck.
+ I want that.
+ I want that script.
+ You've got to give it to me.
+ You've got to give me your IRC directory.
+ Yeah.
+ All right.
+ So, let's see what we're talking about.
+ Our biggest news over the last two weeks is Punkbuster.
+ Just giving it to the Half-Life community.
+ Rap the Sphincter.
+ Fuck them.
+ Yeah, the Dasphincter.
+ Okay.
+ I'm a little up in Anthony for you guys.
+ I hope you guys listen to them, because they're like syndicated now.
+ We don't even have to broadcast them over the internet.
+ I mean, not every place gets them, but...
+ I still do anyway, just because we can't get it at work.
+ Exactly.
+ But, yeah, so, Punkbuster, actually, just about two weeks ago, right?
+ Yeah.
+ That was, that's way too quick, isn't it?
+ All right.
+ Punkbuster decided that, well, they decided to get greedy and became a corporation.
+ So, what they were deciding to do, this is all, like, my opinion.
+ I could be wrong.
+ If somebody wants to clarify this or deny some of this, they're free to call in next show,
+ two weeks from now.
+ But what they decided to do was, they wanted Valve to integrate Punkbuster into Half-Life.
+ And, you know, this way, you know...
+ They can make money.
+ Right.
+ Make money, because we're going to charge them.
+ That's right.
+ And Valve said, no, take a big fucking walk.
+ It ain't going to happen.
+ And then they could come out and say, well, Valve's not willing to work with us.
+ No, no, no.
+ Valve's not willing to pay you guys.
+ So, they got greedy, and they pretty much fucked everybody.
+ Everybody that, you know, didn't want to cheat, you know, that went on the Punkbuster servers.
+ Yeah.
+ You know.
+ But, um...
+ I sort of like that guy the other day.
+ The man that was doing the little snafu when he came around the corners.
+ Oh, you saw that?
+ Yeah.
+ No, he did it.
+ I got the demo.
+ He did it to me, and that's when you said, hey, wait a minute.
+ Oh, fuck that, Dan.
+ Yeah, we've seen a lot of that.
+ Yeah.
+ We're getting much better at picking out the cheats on our server.
+ Oh, God, yes.
+ We have two new admins.
+ Uh-huh.
+ Want to say...
+ Oh, God, I was going to be pissed.
+ Sushi and, um...
+ Oh, fuck.
+ What's his name again?
+ He's in the chat room.
+ He's got to be.
+ Uh...
+ Do-do-do-do-do.
+ Why don't you...
+ Oh, God.
+ Oh, Otis, too.
+ I got Genocide, Foxhound, Sushi, and...
+ What the fuck's his name?
+ His neck?
+ No.
+ No, he's asking, but not yet.
+ Uh, keep going.
+ Diggs this year.
+ Oh, my God.
+ No.
+ Thwack.
+ Shit.
+ Yeah, he's not in the chat room.
+ Army Ranger?
+ Fuck.
+ I can't remember what it was.
+ Ninja?
+ Somebody help me out with this one.
+ Oh, wait.
+ Whatever.
+ Anyways.
+ So, we had to beef up our admin staff just because of the fact that, well, Punk Buster's
+ fucking completely useless now because new hacks are not detected by the old version
+ of Punk Buster.
+ And, um, I decided, and, uh, yeah, just, you know what?
+ Fuck it.
+ The reason we never did, like, we had a program that came out for...
+ Quake.
+ Quake.
+ Uh, when we used, when me and Steve and a whole bunch of my friends play Quake, uh, they
+ released a source code for Quake and all of a sudden cheats were coming like you wouldn't
+ fucking believe.
+ I mean, it's almost as bad as Half-Life is now.
+ It's, uh, it was getting really, really ugly.
+ And we had a way that...
+ Yes, Doug, there is a CSR Winampskin.
+ It's not that good, so design a better one.
+ Yeah, right?
+ No, so what ended up happening was, uh, we came out with a cheat-checking program.
+ So, something not really like Punk Buster, but it was client-server.
+ You run a server, everybody connecting to the server has to run a client, and the client verifies
+ that you are running the correct things.
+ You're not running anything that you're not supposed to be running.
+ So, um, there wasn't much interest in that, because we found out through another project
+ that half the people in Quake were fucking cheating fucks.
+ At least half.
+ If not more.
+ Uh, a lot of, a lot of, uh, people got busted using, uh, a well-known cheat there, uh, through
+ this one project somebody else had going.
+ It was like a little spy program to tell you, like, when you were running the cheat, which
+ I've heard is also in one of the cheats for Half-Life, but I haven't been able to find
+ which one yet.
+ Um, but a whole bunch of people got busted.
+ Now, the whole thing is, is we have the source code, we have something that checks, and we
+ said, you know what?
+ What we're going to do is we're going to come out with, we're going to port the program,
+ which works right now in Quake.
+ We're going to port it over to Half-Life.
+ Uh, there was actually a lot of interest in it.
+ Uh, Genocide was, you know, talking to me about it.
+ He got it posted up on some news.
+ Got a whole bunch of people, you know, sending me emails.
+ Uh, but right now what we're doing is we held off for a week, and we want to see what the
+ hell Punk Buster's doing.
+ Because supposedly they're in talks.
+ They're not.
+ They're not?
+ Uh, it doesn't look like it.
+ No, it doesn't, because they haven't posted shit, right?
+ Yeah.
+ So we have the, we have the source code, obviously.
+ We programmed it.
+ And now we've got to turn it, turn around and make it, uh, compatible with Half-Life.
+ You'd think that they were in talks with it.
+ They'd at least post news so they can say, hey, here's Valve's email address.
+ Nope.
+ You know, they didn't do shit.
+ Give them the email address and say, hey, we want Punk Buster integrated, blah, blah, blah,
+ something like that.
+ And, what, is Rico in the room?
+ Yeah, but he's got his spam on there, because people were going a little crazy before, so it's
+ all right.
+ Oh, okay.
+ Nice.
+ Don't ban people.
+ There's nobody banned.
+ There's nobody banned.
+ Just kicking.
+ Anyway, so, the whole thing ended up being, is me and Janster are still looking into whether
+ or not, uh, we are needed.
+ We don't want to start going into something and then finding out Punk Buster comes out,
+ because everybody's going to use Punk Buster.
+ Yeah.
+ With all its limitations.
+ You know, our program doesn't have the limitations that Punk Buster has.
+ Hey, this guy.
+ I use QRI.
+ I don't cheat a cake.
+ I use QRI.
+ I remember him.
+ But, uh.
+ The name was on the list.
+ Yeah, right.
+ No, QRI was the name of our project there, and now we're going to try to figure out if
+ we're going to port it over.
+ Brett Lutz says all Punk Buster did was make cheating worse.
+ No, it didn't.
+ No, it didn't.
+ It just made it harder for...
+ It made it harder for the casual...
+ For the cheaters, yeah.
+ No, the casual cheater.
+ The guy that goes to the website that hasn't been updated in like three months, downloads
+ a cheat, goes on the first server and gets banned.
+ So, we're going to...
+ Watch the cable going into the...
+ Yeah, I'm so...
+ We can pull out.
+ Nice.
+ But, we're going to work on it.
+ We're going to work on it.
+ And, uh.
+ If you check out the www.anti-cheater.com, you can see how QRI worked.
+ You can see how, uh, you know, our news post right now and our release and stuff.
+ What we're doing is we're just...
+ Right now, we're holding back, and we're going to see what Punk Buster does.
+ Our code is pretty much done.
+ There's a couple other projects out there, but none of them have a working server, working
+ client already ready to go.
+ So, we could probably, you know, theoretically, we were going to, you know, we could be out
+ within a couple of, you know, probably three, four weeks.
+ The thing is, we will need coding help.
+ And, it's going to be really hard to find somebody that we trust, because obviously,
+ if, you know, the source code gets out, we're kind of screwed.
+ So, that's the whole thing.
+ But, we've got some contacts there.
+ All right, so, that was the biggest piece of news.
+ There was a new Half-Life dedicated server that came out, supposedly fixed a whole bunch
+ of bugs, because the first release was buggy.
+ I still get hangs.
+ It's not common, but it'll be like, one every 20 rounds, I'll hang.
+ Well, I had one since they came out with the fix.
+ Right.
+ I never had, I never had any before.
+ That's what I'm saying.
+ And, now, all of a sudden, bang, you know, as soon as we do the upgrade.
+ You know, it hangs.
+ So, hopefully, I don't know, Eric Johnson over there, there is an interview with him,
+ an audio interview, but with one of the other gaming radio pages.
+ It's listed up on Counter-Strike Nation.
+ If I want to go here, I guess what he has to say.
+ Well, actually, I'd like to hear what that radio, you know, because, I mean, we'd be going,
+ what are you going to do about the fucking cheaters?
+ You know, I mean, no being nice and shit.
+ We'd be like, hey, what the fuck is going on?
+ You know, but I'd like to hear that interview.
+ I haven't heard it yet.
+ One of our, the way I wrote it down, it's two million hits.
+ That's right, of course.
+ It's two million hits for Counter-Strike 2D.
+ You know, we pimp the hell out of them, and it's good to see them.
+ They got two million hits, which is a lot.
+ And so, since they're talking about two million hits, we've had half a million hits.
+ Of just the front page.
+ Of just the front page.
+ I mean, we need to change it so it keeps track of the second page.
+ Yeah, I think we need to, because I think most people have everything.
+ Yeah, and their favorites go into index.html rather than watching the flash over again.
+ Yeah, right.
+ Most people don't go to csradio.counter-strike.net.
+ They probably have index, so.
+ Yeah.
+ So, we did half a million hits, which is pretty cool.
+ We have an average of 900 unique people a day going to the site.
+ And, of course, you know, there's days where it's less and days when it's a shitload.
+ A little bit more.
+ So, let's see.
+ Steve.
+ Steve.
+ That's me.
+ You suck it.
+ Has linked out CS Music.
+ Yeah, this way, what's-his-name can stop bugging me.
+ Oh, what's-his-name?
+ Oh, okay, cool.
+ Just like the guy that, you know, you mean what's-his-name that admins our server?
+ Yeah, yeah, yeah.
+ Nice.
+ And if you guys ever want to check out the server status, all you've got to do is go to our webpage and scroll all the way to the bottom.
+ That's reet.
+ That's reet.
+ But, yeah, the server, I think, has been acting pretty well.
+ It did crash the other night, but only once.
+ Yeah.
+ Again, I don't know what the issues are with that, but Recon Gamer has been really good with that.
+ Oh, it's Solid Snake?
+ Oh, that's who it is.
+ Hi, Solid.
+ Sorry.
+ Oh, crap.
+ Is it okay to call now?
+ No, not yet.
+ After the top ten.
+ After the top ten, we can start doing the call-ins.
+ You're doing it.
+ Total time.
+ We start to one minute.
+ I'm at 70.
+ That's all.
+ Wait.
+ Did you guys say you were making one?
+ No, we want one.
+ No.
+ No, we're not making one.
+ No, no.
+ He'll hear this.
+ No, somebody else needs to make one.
+ We could make one, but it would just be like one color.
+ Yeah.
+ No graphics, just...
+ It's the official CS Radio skin.
+ And it looks so much like the default one.
+ It's the default skin.
+ Exactly.
+ Package up the default skin and just call it something else.
+ Oh, come on.
+ Say something, guys.
+ We are.
+ Hello.
+ I don't know.
+ Check.
+ Say something.
+ User banned Lebloski.
+ 3.2 million hits.
+ Ah, see?
+ He's reading it straight off the EGOT TFTP site.
+ See?
+ Oh, okay.
+ Oh, so I guess he knows the top ten, too, huh?
+ Bastard.
+ Piss.
+ Prick.
+ Wait, we'll take that off there.
+ We've got 45 seconds.
+ Hurry.
+ Oh, I don't give a shit.
+ No, I know.
+ He's already got...
+ You can see my...
+ Actually, you just turn it off.
+ Stop.
+ There we go.
+ Go ahead, Reed Hacksers.
+ Nice.
+ Now he's going to start DCC-ing it to everybody.
+ Oh, damn it.
+ Let's see.
+ So, yeah, the server's doing good.
+ For us, do you think that Recon Gamer logo is big enough on our first page, sir, Steve?
+ Huh?
+ The Recon Gamer link button?
+ Hey, it's just linked right off of that page.
+ I didn't even put the JPEG into our directory.
+ It said, insert picture?
+ Yeah.
+ Why not?
+ So, yeah, no, Recon Gamers is doing really good by us.
+ But, actually, we have a map test tonight, which is going to be Predator.
+ Did you download it?
+ No.
+ It only takes a second.
+ But, here's the thing.
+ We have an 18-player server that, every time we have one of these, packs out completely full.
+ Mm-hmm.
+ What I want to do is maybe we can get a hold of that stat.
+ I don't know.
+ He has a server.
+ Uh-huh.
+ And maybe let's coordinate something where we have a new map, you know, to do a play test on and maybe, you know, work with CounterMap a little bit.
+ And if we can get a couple other server admins to get, like, secondary servers, you know, to get those secondary servers on board with us.
+ Because it always seems like we have way too many people.
+ I mean, I can't even get on, you know, because we don't, I don't like the reserve slot thingy, you know.
+ Well, it's working there.
+ It's what?
+ It only lets 17 of 18 people on.
+ Until an admin jumps on.
+ And when an admin jumps on, it says admin slot used.
+ That's it.
+ So.
+ Oh, system status.
+ Neat.
+ Cool, huh?
+ Can you ever have 18 of 18 on it?
+ Yeah, you can.
+ I guess once an admin's on it, it'll go 18 of 18.
+ So, yeah, we'll figure that out.
+ But maybe we can get something like that.
+ So we're going to give a call out to anybody that listens to the show that possibly has access to a server that wants to help us out.
+ What the hell are you talking about?
+ On channel, not on radio, god damn it.
+ Oh.
+ I don't know.
+ What?
+ What are they talking about, Recon Gamer?
+ System uptime, one hour, six hours, eleven minutes.
+ I don't know.
+ Do you like mine?
+ Let's see.
+ Hold on.
+ Another script.
+ General options.
+ System stats.
+ Beep.
+ Okay.
+ Usage.
+ Memory usage.
+ Okay.
+ 21%.
+ Yeah, nice.
+ 222 megs of one gig.
+ Oh, I've got to put mine up there.
+ Just to show 180 gigs of hard drive space.
+ It just shows you your free hard drive space.
+ Yeah, well, it's still got a shitload of free.
+ All right.
+ So, let's get on to the top ten.
+ Everybody from Interking is running XP now.
+ Hmm.
+ Hmm.
+ How'd that happen?
+ Nice.
+ All right.
+ Top ten.
+ Top ten.
+ This one's from Nebula?
+ Yeah, Nebi.
+ My God.
+ And it's his correct email address.
+ I know it's his.
+ Okay.
+ Top ten disadvantages to voice communication.
+ Okay.
+ So, I'm thinking he does it correctly.
+ So, we're going from ten to number one.
+ Let me get a light.
+ My again.
+ No.
+ Put that right there.
+ Number ten.
+ That's another 30 meg for Nebi's poor 56K modem to download.
+ Number nine.
+ People are beginning to use CS radio as the term for voice comm, even though that CSR contains
+ twice the fiber and thrice the reet.
+ Number eight.
+ You have to shudder through people who are the most swunky microphones and hence sound like
+ broken mumbling announcements on a train station.
+ You know what's really bad?
+ What?
+ There was a guy on there today who everybody was trying to tell him, you know, you've got
+ reverb on, you've got this on, or whatever, because the kid was nine years old and sounded
+ like Donald Duck.
+ But the only problem was, that was his own voice.
+ He's like, what are you talking about?
+ What are you talking about?
+ I'm like, holy shit.
+ They're like, all the camera terrorists are afraid.
+ I'm like, yeah, they're probably hearing your voice.
+ Nice.
+ Number seven.
+ Now my loud cursing can be ignored.
+ Number six.
+ Everyone laughs at your pre-pubescent cracking voice.
+ And the number five reason why, what's the reason again?
+ Scroll up a little bit.
+ There we go.
+ And the number five disadvantage of voice communication is, no one listens to any commands you give because
+ of the below.
+ Everyone laughs at your pre-pubescent cracking.
+ Nice.
+ Number four.
+ I have to look at my ugly pre-pubescent teammates all the time.
+ Number three.
+ I'm not exactly sure how to pronounce ass-splunker.
+ And then I put a little thing in there.
+ That would be ass-pe-lunker.
+ Number two.
+ You've got to listen to Nebby Freestyle via voice comm.
+ I got a cult.
+ You might bolt.
+ So you're up your ass.
+ I'll jolt.
+ Quicker than a thousand volts.
+ I thought that up then.
+ Oh, boy.
+ And the number one reason why voice comm sucks for Nebby is you can no longer pretend to be a female just to score nefarious cyber sex.
+ Oh, boy.
+ All right, folks.
+ That was the top ten from our buddy Nebby.
+ Maybe he's calling in.
+ We're going to open up the phone.
+ Maybe.
+ I don't know.
+ All right.
+ We're going to open up the phone lines.
+ Somebody out there knows the phone number.
+ The phone number.
+ Go ahead and post it up.
+ And we'll start taking calls.
+ Actually, we're not supposed to read any plugs from Knickknack, I think.
+ Yeah.
+ Okay.
+ Yeah, I told him to get in touch with you to say that because I would have forgot.
+ Yeah, well, I didn't even, I didn't, by the way, I didn't, I just copied and pasted these.
+ So.
+ Hope you're recording the thing.
+ We always do.
+ Okay.
+ Dude, I know that kids have, I just, trust me.
+ Yeah, sure you do.
+ Yeah, sure you did.
+ Yeah, okay.
+ All right.
+ All right, so, we're going to open up the phone lines while we hit the plug my causes.
+ And the topic is need players for a deserted clan server.
+ Hey.
+ Server IP.
+ Want to do some map testings on Sundays?
+ Yeah, right.
+ Early last year, I thought it would be fun to join this one particular server and play a few rounds.
+ Later, I found myself coming back in the next day and the next, and eventually became a member of one of the clans, which always plays out.
+ Even in the wee hours of the morning, the server wouldn't have been empty.
+ All these people were shooting away.
+ That was until it went down for upgrades.
+ Now the server with a 32 open player slot can hardly be reached.
+ Five players at any given time, and it's almost always empty.
+ Unlike before, clans disband and such, and many frequent visitors disbanded.
+ This is except a few of us, counting myself.
+ We're trying to get this server full again and greet the new players who join and old veterans who use players here.
+ This server is located in L.A.
+ From the East Coast, I ping around 140 to 160.
+ Satisfies me, blah, blah, blah.
+ Hold on.
+ I can't read your name.
+ Hey.
+ Scroll down a little bit.
+ Hello?
+ Hold on a second.
+ Hold on a second.
+ Consider visiting...
+ Wait a second.
+ Hold on a second.
+ Oh, okay.
+ Okay.
+ Consider visiting the server.
+ It's 216.234.208.21.
+ Default for it.
+ And let another server which we use fun place together again.
+ Hey, if you guys want, like, people, you know, like, on your server, I mean, this would be the best way.
+ You could get, like, you know, definitely a 32-player server.
+ We could have that full.
+ What's up there, bunny rabbit?
+ Hey, what's up?
+ Not much.
+ So, I hop on the CS radio server the other day.
+ Yeah?
+ And I see a message from admin, Solid Snake 88.
+ I about crap myself right there.
+ You see the message from what?
+ So, why'd you give him admin and not me?
+ Let's see how you like mine.
+ I don't know.
+ It's kind of like...
+ You guys are fading in and out.
+ We don't trust you yet.
+ No, we're not.
+ You're just not listening hard enough.
+ You're right.
+ No, you guys are actually fading in and out.
+ Press the phone closer to your head.
+ No kidding.
+ Hello?
+ Hello?
+ What?
+ What?
+ Your guy's thing is really messed up.
+ He's fading in and out.
+ Yeah, okay.
+ Okay.
+ Okay, there it goes.
+ All right.
+ All right.
+ No, like I said...
+ He had the wrong touch with you.
+ No offense to you, okay, bunny rabbit, but I don't trust you yet with admin.
+ Well, I don't even care if I get the ability to kick or ban or whatnot.
+ I just want to be able to, like, if someone says the server sucks, the admin sucks, there's
+ no admin here.
+ I want to be able to have, like, admin say so I can say, oh, you know, like, just to scare
+ them, you know?
+ All right, um, I've got to sit down and figure out what commands I want to give you.
+ That's the biggest thing.
+ Okay, well, I don't care if you don't give me admin slap or anything.
+ I just want to talk to you.
+ Oh, you definitely ain't getting admin slap.
+ No.
+ That's a big no.
+ Sorry.
+ Yeah, whenever she slaps me, I get, like, a 50 added to my pain.
+ Well, the whole thing is, is we've got to figure out what we can give you and still
+ be able to slap you around.
+ You know what I'm saying?
+ Yeah, I know.
+ I don't care if you can slap me, ban me, or whatnot.
+ Okay, don't ban me.
+ No, what?
+ I'm not going to ban you.
+ Don't ban me.
+ Okay, that's one thing I don't want.
+ No, I'm not going to ban you.
+ I'm just saying, we want to be able to still, like, admin slap you.
+ Exactly.
+ If we make you an admin, though, I think that takes that away from us.
+ Well, you can slap me anyway.
+ No, we'll figure something out.
+ I swear.
+ Okay, well, after the show, get on ICQ or something.
+ Well, the whole thing is, is I have to go to adminmod.org, which is what we use on our
+ server, and then figure out what we can give you, test it out.
+ If we can't slap, you were taking it away.
+ Oh.
+ Nice.
+ All right.
+ This one's for dog.
+ Yeah.
+ All right.
+ Remember that contest you had last show?
+ Remember that contest you had last show?
+ What contest?
+ You had a contest last show with one of the other guys, right?
+ Oh, yeah.
+ Yeah, guess what?
+ You won.
+ You won.
+ Woo-hoo!
+ I won five.
+ You didn't.
+ Okay.
+ Goodbye.
+ Have a good one.
+ Bye-bye.
+ You did.
+ Bye.
+ Bye.
+ Bye.
+ What?
+ You won.
+ Oh, God.
+ That's quick.
+ All right.
+ Next one.
+ Lethal organization.
+ MP5 Navy.
+ I don't mind the MP5 in and of itself, but I wish they would stop calling it the Navy because
+ it's not.
+ It's just an MP5.
+ The Navy has a flashlight attached to the bottom where one in CS does not.
+ And all I want is for them to be stopped labeled as the Navy.
+ God, you're anal.
+ I'm sorry.
+ Oh, what happened?
+ Nothing.
+ Hello?
+ Sir?
+ It says handset in use.
+ All right.
+ Hello?
+ Hello?
+ Is he still there?
+ Hello?
+ Oh, hold on a second.
+ The speaker phone in use.
+ Oh, I just went there.
+ I know.
+ And now it says idle.
+ Hey.
+ Hey, there we go.
+ All right, good, good.
+ Hello?
+ It's genocide.
+ Hey, genocide.
+ What's happening?
+ Genocide.
+ Can you hear us?
+ Yeah, I can just about hear you, Steve, but I can't hear the radio.
+ We'll just have to turn it up.
+ How's that?
+ That's better.
+ Okay.
+ I just cranked it.
+ Well, basically, I just went up to look at that.
+ You know you said, like, that one thing.
+ I've got your amazing $1 for me.
+ I just had a question.
+ Was it the Osama bin Laden cap?
+ No.
+ It wasn't the Osama bin Laden cap.
+ No, that was the regular CS, what do you call it?
+ The CS radio t-shirt.
+ Somebody ordered a train wreck t-shirt.
+ Yeah, we've got that foot in the net really badly.
+ I don't know.
+ Okay, how's that?
+ Is that better?
+ Occasionally, but it just comes and goes.
+ God damn it.
+ We're going to be moving this anyways next time.
+ I know you're going.
+ In a couple of weeks anyways.
+ So, what's going on?
+ Well, you guys are setting it on the net, which is really good.
+ I just want to say that everybody who I know in RFC basically says that if QRI, or whatever
+ you try to call it, was to be released, I would probably prefer to use the Punk Buster.
+ Because Punk Buster is so, you know, well-known now about the two days.
+ Yeah, well, Punk Buster is the most well-known.
+ I mean, it would be hard for us to come out with QRI, you know, for Half-Life.
+ And then try to make it, you know, for people to use it.
+ If Punk Buster was still around.
+ Yeah.
+ So, I mean, everybody just says Punk Buster is just a person for security in the end of the day.
+ Well, it's because it's hackable.
+ It's extremely hackable.
+ Yeah, it's, it's, it's...
+ Yeah, I'm on it.
+ It looks super.
+ You know, what made me really cracked up the other day is I was watching TV, and there's just
+ like this huge protest going on by, you know, and she was saying, oh, yeah, Osama bin Laden.
+ And, you know, I just post myself and I saw them, they were holding up the poster saying Osama bin Laden,
+ and they were spelling his name wrong.
+ I'm like, what a contradiction.
+ You just heard about him this guy, but he can't even spell his name.
+ Nice one, guys.
+ Nice.
+ Oh, God.
+ So.
+ Well, I mean, I've got to order my, my shirt, my, my cousin's shirt, and take pictures of him
+ studying around the world.
+ But I'm going to probably order them on Tuesday, when we're going to do some good plans, which
+ is going to be nice and pricey.
+ Well, how's your shirt on?
+ Um, sexy at the moment.
+ I'm still going to get some things working.
+ I feel like maybe it's just like a big, tiny little size.
+ I don't know if you have a PC in here.
+ Like, you know, it's hard to know if there is an extension needs going everywhere just
+ to get the, uh, the mic to work in there.
+ I can't understand a word he's saying.
+ Dude, because you've got to turn it up too loud.
+ No, it's not bad.
+ You're really quiet, guys.
+ I can't hear you.
+ Occasionally, they're just straight in.
+ Wait, here?
+ No, that doesn't work.
+ Turn him down.
+ Oh, which one is it?
+ Four?
+ Yeah, whoa.
+ Okay, turn it in.
+ Go ahead.
+ Yeah, I can hear you, Steve, occasionally.
+ Can you hear me all right?
+ Yeah, I can hear you.
+ Oh.
+ Is your microphone on?
+ Yeah, my microphone's on.
+ Sure, make sure it's on.
+ No, it's on.
+ I can see it.
+ I'm, uh, just make sure it's on.
+ This is on.
+ I know.
+ And this is on.
+ All right, so you can hear me?
+ Yeah, I can hear you fine.
+ And he keeps fading him out.
+ Well, yeah.
+ Oh, great.
+ Works well.
+ Well, I can hear you now.
+ So, I don't know.
+ Maybe it's just a nice second here.
+ Oh, wait.
+ You know, I didn't know what the problem was.
+ What did you do to my mic?
+ No.
+ Well, I think we said what he was doing to my mic earlier.
+ I bent the cable.
+ Try moving the wire around.
+ Oh, this will be wrong.
+ Well, I don't understand why you can hear us.
+ It's coming off on both channels, right?
+ Yeah, no, it's working fine.
+ Okay.
+ I don't know.
+ Oh, well.
+ It's just the line going into the phone.
+ Let's use the mic or something.
+ Let's use the headset.
+ Well, I don't know.
+ Anyways, I can hear us.
+ I can hear us.
+ That's all that matters.
+ All right.
+ So, um...
+ No, you know what you have to do to get people to listen to your radio show?
+ What's that?
+ I have to be free dick porn?
+ No, no, no.
+ You have to have nine-hour shows.
+ Nine-hour shows?
+ You have to have nine-hour shows.
+ Oh, then you've got a bunny rabbit style.
+ Yeah.
+ Oh, God, stop.
+ No, genocide.
+ It starts slow.
+ I mean, even when I was doing it, you know, with one person, okay?
+ Ambush?
+ Ambush.
+ No.
+ No.
+ Can't be.
+ It says Ambush.
+ I know.
+ Yeah, I can't be the same guy.
+ No way.
+ You can check.
+ Anyways, I mean, when I started my show, I had, ooh, a total of about ten listeners a week.
+ Colorado.
+ I'm lucky.
+ I can, you know, a lot of my mates from CSR will listen to it.
+ That could be him.
+ I know.
+ That's a good master show.
+ I don't have to post the show at 2 a.m. here, so everybody is going to be able to listen to it.
+ Right.
+ Well, I know, I mean, it takes time.
+ It takes time, man.
+ It's like, I can get my relay going, and then I've got to use extra bandwidth for Volcom.
+ Well, we can.
+ I can't get somebody else's Volcom if I can.
+ Let me know when your show's on.
+ If you can get a hold of me, I'll relay it.
+ Yeah, I mean, I think, well, I was speaking to a current, ages ago, I can relay this, so maybe if he's online, which seems to be, like, forever.
+ Right.
+ You might be able to do it.
+ As well, the snake's got, you know, a three megabit, like, cable line, so that's handy.
+ Right.
+ Well, I mean, I've got, like, a megabit of upload speed, so, I mean, that can hold 20 people easily.
+ That's nice.
+ Yeah, so, I mean, like I said, if you need relays, I mean, we can help you out that way.
+ Oh, guys, by the way, if you're wondering about this, uh, new crash thing in 1.3, it's caused by the smoke grenade.
+ It's from a smoke?
+ It's coming through the smoke grenade, and the end where you see it, or something like that, not to show it correctly, it'll crash you.
+ I was in a crime game, we're running up the ramp on, uh, death two.
+ A smoke grenade will flash?
+ And we start to plant the bomb, and four of our players just crash and freeze.
+ Huh, oh, that's not good.
+ No.
+ Thank you to the smoke grenade thrown by them.
+ So that we can...
+ But it's never affected me before, though.
+ It's never affected me before.
+ Yeah, I think it's just some smoke grenade bug in 1.3, I'm not too sure there.
+ Weird.
+ I don't know, I don't think...
+ Can't we just take smoke grenades off the server?
+ No, we don't do that.
+ Well, if it keeps causing it to crash.
+ I mean, that's not causing mine to crash, though, because I'm remembering now, like, when it crashed today, there was no smoke grenades around.
+ No, mine crashed today, the voice just started over and over and over and over again.
+ Because when you die and somebody's talking, it seems like it, because you're always here, fuck, fuck, fuck, fuck, fuck, fuck, fuck, fuck, fuck.
+ So maybe that's what it is.
+ I don't think it matters if you actually see the smoke grenade, even if it's on the other side of the mat.
+ Oh, you're kidding.
+ You might do it.
+ So, I mean, I was, I mean, the guy, the two guys that, most of the team that crashed wouldn't even buy the smoke grenade when it happened.
+ Oh, okay.
+ So, I'm just guessing, because it's on the side of it.
+ We'll have to pass it out.
+ We'll just...
+ Lose your head on that.
+ The admin there was saying it was the smoke grenade bug.
+ So, I'm just assuming.
+ So, what we'll do is we'll just take a whole bunch of smoke grenades and we'll just throw them around and see if anybody hangs.
+ He said it's not Andy.
+ All right.
+ Damn, I can't get them in the server.
+ These best server has smoke grenades.
+ Yeah, so it's not Andy.
+ Oh, well.
+ Okay, we're going to let you go.
+ We got more plugs.
+ More people trying to call in.
+ Okay, by the way, can you try to, like, unbind some of the people on BT Internet?
+ Because it's the UK's biggest internet provider.
+ I like the guys in ISD and I can't connect because of LeBlanc.
+ The guy's still trying to take the server down.
+ That's the problem.
+ Is he?
+ Yeah.
+ God damn.
+ He didn't sound like that kind of guy on the phone call.
+ He seemed to be stupid.
+ The whole thing is, is somebody should be able to call, you know, BT Internet
+ and, you know, complain about this guy.
+ Most and good as I see.
+ I can give you a number.
+ Yeah.
+ You can kind of look at it.
+ It's like, I don't know.
+ It's weird.
+ Okay.
+ We'll figure it out soon enough.
+ All right, bye.
+ Great.
+ I'm sure we'll just ban everybody.
+ All right.
+ Nobody's in the chat room.
+ No.
+ Space Cadet.
+ Went through hell.
+ Hey, guys.
+ What's up?
+ I've been through my own personal hell for weeks.
+ I had to live in San Diego with no computer.
+ Talk about going through withdrawal.
+ God, I was in pain.
+ Worst of all, I missed your show.
+ But finally, I got back and kissed my computer.
+ Oh, boy.
+ Man, I didn't even get a chance to play the new CS version.
+ All I had to do was watch TV, not even cable.
+ And to talk to an idiot guy who thought quick through the arena was so much better than CS.
+ There were times when I came close to punching his greasy face.
+ And many a night I found myself on the floor weeping just for a minute of CS.
+ Just for a minute of CS.
+ Something cool did go through this.
+ I went to my brother-in-law on the street races.
+ I ain't exactly like you see in the movie Fast and Fierce, but it was close.
+ People got busted all over the place.
+ Cops were everywhere.
+ It was cool.
+ Oh, yeah.
+ It's very cool.
+ I better not make a freaking story anyways.
+ Yeah, too late.
+ I thought I would tell you about how my life sucks without a computer.
+ All I know is probably seem a little late, but I hope you guys in New York are okay.
+ I just want to let you know my prayers go out with all those who lost someone.
+ Scroll down a little more, and the caller, it's God.
+ You have to call on one of the longest ones, huh?
+ Yeah.
+ I want somebody to go down with 1.3.
+ Wish you guys the happy best friend.
+ Sounds like a quick turn.
+ Okay.
+ We got Foxhound on the phone.
+ Hey, Fox.
+ Hey, how's it going, guys?
+ Good, and you?
+ Pretty good.
+ What did you have to train Lazer for?
+ Why?
+ I wanted to win the contest.
+ He doesn't deserve to win.
+ Nice.
+ And you made Solid Snake 88 cry, man.
+ Who?
+ Solid Snake 88.
+ Why?
+ Because I forgot his name?
+ Yeah.
+ Oh, come on.
+ He's crying in his room right now.
+ He's like, Sam doesn't love me.
+ Well, you know, I get bad like that.
+ Oh, yeah.
+ I heard you talking about before about laser guided bunny rabbit being an admin and how you
+ can't slap them.
+ Yeah.
+ That's not true.
+ Oh.
+ Because Sushi and Solid Snake can't slap me, but I can slap and kick and damn them.
+ Okay, then we can make laser guided bunny rabbit.
+ Yeah.
+ He did a way so that, you know, there's like higher admins, lower admins.
+ Right.
+ We want the higher admins to still be able to slap around the lower ones.
+ Hey, it's working for me, so it could probably work for you guys.
+ Dude, that's like the cool, I mean, I've just been like, ah, you know, it's like you sit
+ there and you watch him and it's just like, okay, he's just sitting there doing nothing.
+ Yeah.
+ It's like this too and that other guy on the thing.
+ They decide to use our server as a voice communication port.
+ They just sit there in the spawn point talking back and forth to each other.
+ And then all of a sudden, finally, you see him get up and it's like, ah, off to the side
+ and he dies.
+ Nice.
+ Actually, actually, this one guy was singing on our server before.
+ Oh, God.
+ And I'm like, let me guess.
+ This guy's going to say, talk about condition zero.
+ What the hell is condition zero?
+ No clue.
+ Talk about it.
+ I'm not talking about it.
+ Get it.
+ Okay.
+ So there's a box.
+ Some guy singing?
+ That was stink, wasn't it?
+ I think so, yeah.
+ That guy always sings.
+ No, no, Maverick was singing too.
+ Well, it's okay.
+ As soon as they sing, I kick.
+ So that's about it.
+ Yeah, I think Dog talked about some, I think,
+ an extra admin mob string where you can actually llama people and their voices are llamas too.
+ No way.
+ Yeah, yeah.
+ Yeah, yeah.
+ I heard him talking about that.
+ You should talk to him about it.
+ Oh, that'd be cool.
+ Yeah, he sent me a link before, so.
+ Actually, I want to get the one that, you know, where they're rooted and they, do we have
+ that command available on our server now?
+ What command?
+ Well, you tell them, like, sinking, you know, in other words, they're rooted where they
+ can't move?
+ No.
+ You know, they stop moving and they drop all their weapons and they glow?
+ I didn't, I didn't see that coming up.
+ Okay, I'm getting that plug-in.
+ I saw it.
+ Yeah, you should put that up.
+ It's a new plug-in.
+ You can just, if somebody's cheating, do that to them.
+ They're not going to be cheating on that server much more.
+ Or, you can just do it on laser, bite it, bunny, wrap it for no apparent reason.
+ Oh, God.
+ Actually, that one guy that was spamming that shit over and over again, now it's AWP whoring
+ time.
+ It was like, well, I'm a, you know.
+ All right, so.
+ So, we got a Predator play test, right?
+ Huh?
+ We got a Predator play test today.
+ Yep, it's up on the map.
+ I threw it up there last night for, like, 30 minutes, just so I could take a look at
+ it.
+ And, uh, that map's pretty cool.
+ I like the tripwires.
+ I love the map.
+ I really like, I really like the, um, the pits, because I fell into one of the pits.
+ And I'm sitting there going, oh, I'm still alive.
+ This is cool.
+ Next thing you know, a terrorist falls in with the bomb.
+ I sit there, light them up.
+ The bomb's sitting there.
+ I'm like, ooh, it hit the camp.
+ Yeah, I know.
+ That was great.
+ I like the trap.
+ Yeah, that was, that was, uh.
+ People talk for it too much.
+ I was owning on that server.
+ I actually own on any map that nobody knows the map.
+ Yes.
+ Once they start owning the map, I don't like it anymore.
+ Hey, I've actually been getting better, man.
+ Yeah?
+ Really?
+ Yeah.
+ Because I'm looking at my stats, and I'm like, you know, 15 and 8.
+ I'm like, whoa.
+ You're actually in the stats?
+ Well, yeah.
+ I was in the stats.
+ I was in the stats.
+ I was in the stats.
+ I was in the stats for a few days.
+ I was the AWP whore.
+ I had 10 more kills than everybody else in the AWP.
+ I actually, I still hold the record for the, uh, what's the other, what's the AWP?
+ Everybody complains because I always pick a rifle with a scope.
+ Oh, well.
+ So what?
+ I was number one before, but the stats go reset.
+ Yeah.
+ Now, knick-knack took over.
+ Hey, um, what's the, um, what's the automatic sniper rifle for the counter-terrorist?
+ What's admin underscore belly?
+ Counter-terrorist?
+ I think it's the PSG-1.
+ Yeah.
+ I, I own with that thing because nobody else uses it, so I'm like number one on the stats
+ for that gun.
+ I kill five people.
+ I'm number one.
+ Nice.
+ Well, it's easy to be number one for a gun everyone hates.
+ Exactly.
+ Now, now, now I'm going to start looking at all the pistols that nobody uses, so I can
+ be number one with those, too.
+ I plan to take over the MP5 slot.
+ Ah, that's going to be tough.
+ Yeah.
+ All right, man.
+ So, we're going to let you go.
+ All right, man.
+ All right.
+ Thanks for calling in.
+ All right.
+ So, knick-knack, we're not going to read because he said, thought he was going to be in Georgia.
+ Solid Snake, Genocide Radio, just because Genocide won't plug his radio show doesn't mean
+ I won't.
+ Check out Genocide Radio at www.genocideradio.totalcarnage.co.uk.
+ Insert catchy slogan here.
+ Hello?
+ Who's this?
+ Let me scroll down a little bit.
+ Hey.
+ I got one down.
+ That was a quick one.
+ Ninja.
+ Yeah, I'm going to.
+ The game that will be the next CS.
+ Oh, boy.
+ I found a game that is equally addictive as crack heroin and Counter-Strike put together.
+ Kung Fu Chess.
+ What?
+ Play a few games and you'll be hooked when you lose 20 times in a row like I did.
+ Oh, no.
+ www.kungfuchess.com.
+ Oh, man.
+ Oh, man.
+ Super leet.
+ I would like to pimp out general therapies.
+ Man, they're the best.
+ I recommend you contact some today.
+ Okay.
+ Hotel security guard?
+ Hey, guys.
+ Hey, what's going on?
+ What's up?
+ Man, busy lines today.
+ Yeah.
+ Anyway, uh...
+ Rico was trying to call in, too, and he's like, give me a heads up when the other guys
+ get ready to hang up, and I did, and you probably beat him in.
+ Hit and read out for the last five minutes.
+ Nice.
+ Anyway, uh...
+ You're starting to fit on me, so if I keep blabbering while you're talking, uh, sorry
+ about that.
+ Oh, that's fine.
+ I'll just start screaming.
+ Yeah, that's great.
+ Uh, first of all, uh, I'd like to welcome Kimbo Squad.
+ I think that's one of our newest players.
+ And, uh, uh, player, Blind Reaper.
+ He plays, uh, in the RZQP clan in, uh, Team Fortress Classic, and that's, uh, the clan
+ server I always play and stuff.
+ He should be listening right now.
+ Okay.
+ Anyway, um, I think the punk pressure thing's pretty retarded.
+ Uh, Half-Life and Valve made a really big mistake in, uh, including, uh, the PvE stuff
+ because, I mean, so many people rely on that.
+ And, you know, when...
+ Yeah, but the thing, the whole thing with Punkbuster is it's not foolproof.
+ Not even close.
+ It's flawed technology.
+ It's a flawed...
+ As far as how they implemented it, I knew how to bypass it in, like, five minutes.
+ I was like, oh, I know what they're doing.
+ Bang!
+ They can't catch me.
+ See, what I figured, though, is if they had Valve support, maybe they could make it better
+ and have similar, uh, programmers.
+ I really don't know too much about that stuff, but, you know, I always figured more people,
+ like, more pay, better quality.
+ So, you know, I mean, it'd be nice to get, like, no cheaters.
+ And, and quite frankly, I haven't managed any cheaters recently, so I don't even know
+ if it's that necessary.
+ Huh.
+ I mean, like, honestly, especially on the CSR show, I don't see anyone there, and that's
+ all I really play Counter-Strike, so...
+ Yeah.
+ As long as we can just keep banning and kicking people, sooner or later, it'll just be us
+ 20 people on there playing and fucking the rest of them.
+ I'm looking at the new mods that are out, because, you know, you play one mod for a while and
+ it starts getting repetitive, right?
+ Yeah.
+ And, I mean, some of these mods are still incredibly boring.
+ I got firearms, and I used to play that.
+ What the hell is that?
+ So, so is dead on delivery.
+ I mean, dead on the field.
+ Actually, Kern likes it, but I'm sorry, they still let you do fucking re-spawn camping,
+ so it sucks.
+ All my friends think it's great.
+ They're like, oh, yeah, yeah, play data, it's fine.
+ And I go, okay, I spawn in this server.
+ First of all, everyone sounds like they're in a Counter-Strike public.
+ You know, screw you, screw you.
+ Nice.
+ Like, okay, that's fine.
+ Everyone starts team-killing me, because some guy has a giant machine gun, and he's
+ just sitting there team-killing everyone that spawns.
+ I'm like, okay, fine.
+ Okay, hey, just one thing.
+ The other day, I was on our server, and, what is it?
+ I guess, Dust?
+ Yeah.
+ Is that the one that's got the leaky map there where you can jump up top and walk around?
+ And I banned one guy, and the next guy did it again, so I banned him, too.
+ Just so you know, if anybody's going to walk around through mid-air on dust, I'm going to
+ ban your ass, and every other admin that we have is going to ban you, too.
+ That sounds good.
+ You've got to start tying those chains on.
+ Yeah, I walk into the bomb area, and all of a sudden, I'm getting shot, and I'm like,
+ where the fuck am I getting shot at?
+ I look up, and there's a guy shooting at me, standing 20 feet above my head.
+ I'm like, oh, okay.
+ You know, I'm a discipliner, you know.
+ I'd have to say that, guys, in the IRC and in the server, you don't have to be racist.
+ Just cut that clip out.
+ It's not cool.
+ Racist?
+ Yeah, I've seen guys saying, especially with this Afghanistan stuff, you know, like, wow,
+ bomb the heck out of them, you know, profanity, profanity.
+ I don't think that's necessarily, I think it's really offensive.
+ Well, I think they should be doing, like, bomb the Taliban.
+ That's fine.
+ Yeah, that's fine.
+ The people themselves, honestly, the people.
+ No, I've got nothing against the Afghanistan people.
+ Yeah.
+ But the Taliban have just been pricks for the last, like, I don't know, three weeks about
+ it.
+ Yeah.
+ And I think they're getting what they deserve.
+ Yeah, it's been on the news, but I mean, just keeping it out, I think the admins should
+ keep watching for that.
+ But we're getting pretty popular, you know, thinking about it.
+ Just before I even dial.
+ I think we have, like, five new members of this thing with CSO in the back of their name.
+ Yeah, it's growing in popularity.
+ Soon, there will be a CSR on every server.
+ That's right.
+ Nice.
+ Soon, people are going to have to start buying those mugs for Christmas.
+ Actually, I'm thinking about buying a few and just giving them away.
+ You can make one of those, like, gift baskets, like the Harry and David things.
+ You have a CSR mug, CSR mouse pads, and CSR pairs or something.
+ Nice.
+ You can make, like, a profit out of it.
+ Nah, well, we're probably going to have a contest soon where you get one for free.
+ What's that?
+ Huh?
+ Get what for free?
+ T-shirt.
+ Oh, yeah, well, you know, because all we have to do is log on, order it, and just ship it
+ to their house.
+ Yeah, something like that, but not this show.
+ Anyway, last time another day is I've been off.
+ I just got Morpheus recently, right?
+ That thing is a nice piece of art, but...
+ What is?
+ Morpheus.
+ Oh, yeah.
+ There's actually better ones out there.
+ Morpheus has got the most amount of people, though.
+ I've been thinking about getting BlueShift.
+ A friend told me that all the software on there has viruses, so...
+ I mean, I'm a little reluctant, but...
+ Nice.
+ I heard BlueShift has a high-def pack, and I heard that makes all your models actually look
+ like...
+ I mean, if you're running in dust, you look at my shotgun, if you see a screen set of what
+ my computer looks like, it's like running pixel in pixel.
+ It's like a bunch of pixels together to make a big image or something like that, so I think
+ the high-def pack might make it a little bit better.
+ Have you guys installed that yet, or...?
+ No, no.
+ Not interested.
+ I mean, I don't want to spend, like, 20-some-odd dollars for it.
+ I don't think it's worth that much.
+ Well, yeah, the whole thing is you've got to, you know, see if it's worth it.
+ I mean, to me, it's like, eh, it's not worth it yet.
+ Yeah, it's a single-player game, right?
+ Yeah.
+ Is that the Condition Zero, or is that the same thing?
+ No, Blue Shift.
+ Well, someone said that Condition Zero is a single-player, though.
+ They give you some multiplayer mods, like an official, uh, for CTF.
+ It's like, uh, supposedly it's like, uh, the Marines versus the Security Guards, and it's
+ like Team Fortress or something.
+ I'm like, yeah, okay, whatever.
+ Yeah, yeah, yeah.
+ They get it at the last second.
+ All right, so, uh, actually, have you played, uh, Return of Castle Wolfenstein yet?
+ No, but Genocide told me, and actually some other people told me it's shit, and it's
+ just, uh, give off of Day of the, Day of the Feet.
+ Yeah, it's close.
+ It's close.
+ It's actually better than Day of the Feet, though.
+ Yeah.
+ It's better because there's no, actually, there is a shitload of respawn camping.
+ Yeah.
+ Because I, I ended up getting over the wall with a flamethrower as people were spawning.
+ But it was only in beta, so.
+ Yeah, so I was like, cool.
+ I'm sure they'll fix it as it goes along.
+ They're going to get so many people complaining about that, but.
+ And I think it's made with, what, the Quake 3 engine?
+ Yeah, oh, definitely.
+ Yeah.
+ And that's a really popular engine besides the Half-Life one.
+ Yeah, well.
+ Until the GS-2 engine comes out, I think Half-Life is going to start fading.
+ Well, you've got a ways to wait for that.
+ Yeah.
+ So, you know, supposedly the new Axis State came out for, like, January next year, supposedly.
+ No, no, no, no, no.
+ They pushed it back again.
+ Again?
+ They're talking 2002, like, spring or something like that.
+ Oh, my God.
+ The spring of 2003.
+ I don't know.
+ They come out for a release date and they push it back the second after that.
+ Yeah, exactly.
+ Okay, well, nice talking to you guys.
+ All right, take it easy.
+ Let somebody else try to call in.
+ All right, bye.
+ Talk to you later.
+ Let's see.
+ Do we have enough time to get another plug-in?
+ Okay.
+ G-M-A-C.
+ New client?
+ No, no, don't read this.
+ Why not?
+ A dedicated server will cost a foot over a month.
+ Why not?
+ Hello?
+ Who's this?
+ Rico?
+ All right.
+ All right.
+ Why not?
+ Well, because it looks like the same thing they're trying to charge people a plug.
+ No, no, they're talking per member.
+ Oh, okay.
+ In other words, they want to get a dedicated server and they've got to pay for it.
+ So, if they get 10 people and it's $40, like, they get one of the Recon Gamer ones?
+ Yeah.
+ You know, they're just paying for the server.
+ Oh, okay.
+ Hey, what's going on, Rico?
+ Oh, there we go.
+ Yeah, they're all right.
+ You two are, like, fading in and out.
+ You know what you're a pain in the ass to do to redial on a cell phone?
+ God.
+ Don't you just have redial?
+ I do, but the damn thing doesn't work on your number for some odd reason.
+ I don't know why.
+ Didn't you get in trouble with your cell phone the last time you tried calling in?
+ No, not that I recall.
+ Oh, okay.
+ We thought that's why you didn't call in for, like, the longest time.
+ No, I've been licking my ass off every Sunday.
+ And they finally gave me a Sunday out, so I finally get to listen.
+ Oh, so you get to hear the train wreck.
+ They're bugging me, so it's like I finally got to free time.
+ So, how's it been?
+ Uh, I don't know.
+ It's been, uh, it's me, uh, I'm basically waiting until Wednesday when my DSL gets installed.
+ Oh, no.
+ You're going to have high speed?
+ I'm going to have high speed.
+ I think I'm finally going to be a low-ping bastard.
+ Oh, God.
+ I have been counting the damn days since I got the modem in the mail.
+ Nice.
+ Cool.
+ Uh-oh.
+ Uh, it's sort of got, like, my ISP front.
+ I was getting high speed.
+ Because every day since then, now that I got the modem, the damn, my, uh, I get to redial
+ about five, ten times to get a decent connection.
+ And then, even then, it's just fucking slow.
+ What the hell is this?
+ It's radio stats.
+ Oh, who?
+ For people listening to, on the air game.
+ It's all the servers.
+ Yeah.
+ Oh, that's sweet.
+ Is it $1,701, $24 on the other?
+ Oh, that's cool.
+ It's brand new.
+ Actually, it is brand new.
+ Actually, go to, go to, uh, um, Showcats.
+ Check that one out.
+ Showcats.
+ Because my server shows up there now.
+ Uh, so, where are you working now, Rico?
+ I'm actually, uh, working for a different restaurant now.
+ Oh, dude, man, with the, with your REIT skills?
+ Yeah, yeah, I know.
+ I'm getting the same shit from everybody.
+ Out of food, going to computers, uh, not happening at the moment.
+ I still need, uh, pretty much save up $20,000 when we get certified and everything, so.
+ So, the wait period starts.
+ Well, well.
+ All right, so, I don't know, man.
+ Uh, glad you could listen to the show again.
+ Yeah, it was fun.
+ How about that little comment?
+ I mean, that.
+ We'll find out if I can, what, Sunday after next.
+ A few shows ago, I made a comment that, uh, yeah, uh, yeah, Rico doesn't even listen to
+ the show anymore.
+ I get an ICQ from him, like, later that night.
+ I still listen to it.
+ Uh, and that just happened to be the night I decided I was really bored and I was going
+ to download it next year.
+ Yes, that's right.
+ When you're really bored, Counter-Strike Radio's there.
+ Nice.
+ Thanks, man.
+ Thanks a lot.
+ Jane, you can't figure out what to use.
+ Your limited bandwidth for CS Radio is there.
+ That's the way I look at it.
+ And one file plan, it's not being a total pain in the ass.
+ Oh, okay.
+ And that other state you guys put on, I, I don't even think I've gotten a couple of
+ things in that thing yet.
+ Oh, God, no.
+ Oh, no.
+ No, we're watching something that, uh, James, I just seen.
+ I see Tom's in the room now for some odd reason.
+ What's that?
+ Tom's in the room for some odd reason.
+ Tom who?
+ Uh, huh?
+ Damage?
+ No, not that Tom.
+ Tom at, uh, Tom, uh, Jabba Tom.
+ Oh, he's downstairs.
+ Yeah.
+ I don't know what.
+ It is.
+ Why the hell is in the room or what not if he's, I don't know, is he that bored?
+ I mean, doesn't he have a girlfriend or something?
+ No.
+ No.
+ That explains it.
+ Oh, and then, uh, never mind who is.
+ It's just, uh, fitting, surprisingly fitting, though.
+ Anyway.
+ Oh, gosh.
+ Oh, yeah.
+ Top ten.
+ We already did the top ten.
+ We already did the top ten.
+ Not only is he large, but he's slow, too.
+ Yeah.
+ We already did the top ten.
+ All right.
+ Oh, he took Jabba.
+ I like the skin truck.
+ Anything else?
+ No, I think that's it.
+ Because I think, there's a show a lot of people I want to call in today, which is amazing.
+ Huh?
+ We've got one guy that keeps saying, oh, a man dies playing all-night computer games.
+ Yeah, I saw this one.
+ A Thai man died from heart failure during an all-night computer game.
+ A 22-year-old was found dead on his computer terminal at Internet Cafe in Chang and whatever.
+ Police say his friends told him he was addicted to a game and played it from last night evening.
+ To his computer keyboard, he confirmed that there was a worker there.
+ He was playing Half-Life Counter-Strike, which cast players in a rural terrorist count.
+ Up to 32 people can join.
+ I'm going to plug one thing here.
+ Yeah.
+ Before I go there.
+ Yeah.
+ For the plug, Counter-Click Land Gaming, it's HTTP colon forward slash forward slash TQLAN dot IPFOX dot com.
+ I guess that's it, guys.
+ Okay.
+ All right.
+ Cool.
+ Cool.
+ We'll talk to you later.
+ Take it easy.
+ All right.
+ So let's get to the next one.
+ Anyways, the clan HTK needs members.
+ They want to get a dedicated server.
+ They're going to be charging their members $4 a month, hopefully.
+ I'm going to put it on hold here for a few minutes.
+ So you can go to www.angelfire.com.
+ Oh.
+ Oh.
+ Slash clan HTK.
+ Okay.
+ So I'll go check them out.
+ Okay.
+ Want to read one?
+ All right.
+ Where are we at?
+ This one here?
+ That one.
+ All right.
+ This one's from thirddegree.pc.
+ Too good and sitting on the sidelines.
+ Yo, I'm a member of clan PC population control.
+ We've been on CS OGL ladder for a while, but our team is losing out on the action.
+ We've got too many forfeits and only had one match during the entire summer.
+ Please plug our clan so we can get some real action with someone that's not afraid to test their skills.
+ Our website is www.datapost.com.
+ Some lengthy Flash movies available.
+ Hope you guys are online and have fun.
+ Cool.
+ Zoe.
+ Topic Airsoft.
+ What?
+ What the fuck is with Airsoft?
+ Where do you play?
+ It's just like Paintball.
+ Huh?
+ Okay.
+ We're confused too.
+ I get the next one.
+ Brett Rutz.
+ That's seven.
+ Okay.
+ CS 1.3 models.
+ If I install the new models to CS 1.3, will the models have the mouth movements and the new hitboxes?
+ Yeah.
+ Yeah.
+ This next one's from Sixkiller.
+ CS.net Counter-Strike owns.
+ That's it.
+ That is just the best of the world.
+ Okay.
+ Oh.
+ Okay.
+ Terrific.
+ Jackal.
+ Multicast.
+ Hey, guys.
+ Love your show.
+ Keep up the good work.
+ With this multicast, if you want...
+ Want?
+ Want.
+ You can open it up from your computer and join a normal server and then go LAN games and your CS and multicast will appear.
+ You can just join and you're spectating.
+ God, I hate when people like this.
+ Just that you're hosting the multicast, not the server.
+ Thanks.
+ Just thought you could try it.
+ See you guys.
+ Yeah.
+ Like, if I set it up to multicast, I guess, when I go on a server, I host...
+ I don't know.
+ Yeah, I guess you host a multicast server.
+ Crouching Camper, Hidden Newbie.
+ Octagon.
+ British people own you.
+ I forgot to say that in the forum.
+ If you don't agree, I'll rape your mom while you watch.
+ Thanks.
+ Oh, but I love all the other Americans.
+ By the way, has anyone else seen the mouse moving when someone uses a counter-struck radio?
+ Excuse the pun.
+ Everyone probably knows this already.
+ I'll go away now.
+ By the way, in England, cunt is like the C-word.
+ My mom gets really offended when I say that.
+ Oh, so I guess...
+ You say cunt to your mother?
+ Yeah.
+ Exactly.
+ Okay.
+ Yeah.
+ Hey, what's up?
+ Hey.
+ What are you doing?
+ Nah, just wanted to make a full of a plate.
+ Well, what?
+ I got kicked.
+ You got kicked.
+ Oh, was it just spam?
+ I didn't spam.
+ I was telling you to read the top ten.
+ I'm not the one yelling butt-plucking.
+ He didn't get kicked for like a half hour.
+ Nice.
+ I'm just typing in, you know...
+ We read the top ten already.
+ Oh, you did?
+ Yeah.
+ I didn't know.
+ You didn't tell me.
+ Oh.
+ Maybe just...
+ Who kicks you, Eureka?
+ I got sushi.
+ I'm like, oh my God, it's this guy.
+ The guy's yelling, Zool's yelling, butt-plug, butt-plug, butt-plug.
+ All right.
+ This next one's from Garmor.
+ It's from HLTV.
+ You just got to let the dog out.
+ Let the dog out.
+ Thank you.
+ This next one's from Garmor.
+ HLTV guide.
+ Hey, just a tip for you guys who haven't figured HLTV out.
+ There's a guide to CS Extreme that explains how to find HLTV servers.
+ Join them, spectate, and how to set up a server on your own.
+ It's worth finding out.
+ www.cs-extreme.net.
+ Thanks for the great show, guys.
+ Garmor.
+ Kevin.
+ All right.
+ Rampo, you guys are amateurs.
+ Okay.
+ Okay.
+ You guys suck.
+ Either of you suckers.
+ There's a new map, Survivor.
+ What's that?
+ I think it sucks.
+ What?
+ What?
+ I never heard of.
+ If you would even know about mapping, pimp forms, or even follow these forms, you would
+ know.
+ But no, you suck and you sound like total amateurs.
+ Yeah, but you listen to the whole show.
+ I know.
+ H-I-S-K-I underscore H at Hotmail.com.
+ Sure.
+ Okay.
+ That's him.
+ Okay.
+ This one's from Angry Red Herring.
+ No.
+ No.
+ Guys, I already read that.
+ Okay.
+ Good.
+ This one's from Nobody.
+ Can you tell Solid Snake to stop being complete homosexual by camping in the attic?
+ I'm malicious.
+ That's great.
+ Oh, that's great.
+ Hey, George.
+ No.
+ No.
+ Okay.
+ Slicky, knick-knack.
+ No, no, no.
+ No, no.
+ No, no.
+ I think it's for us to do it.
+ Class two, absolutely nothing.
+ Actually, there's a big post on our forums that talk about the armors actually doing something.
+ Oh, okay.
+ Nebby, hey.
+ I'll read this one.
+ Holy shit.
+ Hiya, lads.
+ This is from Nebula.
+ I was just listening to the last show and I thought it might have been a while since I
+ liked you a long and confusing plug that had no point.
+ Oh, it's fun to get in a style.
+ I don't think about when this show was just van about being exceptionally bored in Spain.
+ Talk about how he knew fuck all Spanish and how his music playing cigarette lighter really
+ pissed him off.
+ Those were the days, lads.
+ Those were the days.
+ Anyhow, I digress.
+ Here for your listening presence, a word that I think most people should be using more in
+ daily speech.
+ Frillium.
+ Frillium.
+ Frillium.
+ Frillium is a bit of skin that attaches to the shaft.
+ Oh, no.
+ And many practical uses in the areas of insulting nerds you deem unworthy of wasting training
+ like laser brand of good friends.
+ For instance, from Frillium face to your mom was a Frillium.
+ It's an interesting creative variation in your everyday insults.
+ Which, let's face it, get a bit old.
+ Now, looking at my checklist of the things to plug around with my association with CS Radio,
+ I've now plugged horticultural and asexually transmitted disease, the Frillium, and my country.
+ With such a versatile young man.
+ Anyhow, once again, Van, is it true you're coming down here to Australia?
+ Well, probably not.
+ As you know, I'm flying up to Sydney to do a down-under show of CS Radio, and you can
+ hide me in a suitcase and take me back to New York to do even more shows.
+ Hence, completing my evil scheme to replace Steve's co-host.
+ I think the material's been getting away, the entire, okay, terrific thing.
+ My mate says it now, and I've used it so much, they have the whole idea about the show.
+ It's spreading.
+ Anyways, what am I talking about again?
+ Oh, yeah, communism.
+ Communism.
+ It's a fantastic thing, boys and girls.
+ You get to wear red a lot, and red goes with black really well.
+ And the combined wisdom, my life's terribly compressed in two sentences.
+ Anyways, so it seems like I'm plugging something here.
+ I'd like to plug some new mates of mine who have a music comedy trio.
+ They're funny as fuck, and you should all goddamn well check them out.
+ Before I'm forced to tie you to the tables and play, god damn, any loop of Anya's The Crappiness
+ of Trees, www.freefallboys.com.
+ Oh, I'm scared.
+ I'd buy a T-shirt for you if I had the Cabrillo thing.
+ But I'm an unemployed bum who has, main talent comes from writing insanely long plugs with
+ no real relation to Counter-Strike.
+ What's this, plug radio?
+ I mean, really, you should be training this plug about now.
+ I tell you, who's fucking funny?
+ Paracry, play one of their songs, damn it.
+ Oh, my God.
+ And just a second, link that.
+ Can't fail to play this song.
+ The Blackburner Files, Half-Life CS, Ray, CSR, the movie?
+ That'll be three.
+ Oh, no.
+ You're all gay.
+ I think what you're doing, I'll sing through your text.
+ Fuck you, games fire.
+ Okay, what do you reckon?
+ That I'm three tenors material?
+ I was never sung in a tenor voice.
+ I hope you realize, if not, oh, flog it, I've run out of stuff to say.
+ Just play the song.
+ I hope you like it.
+ Copy that.
+ I am.
+ I just want to see this first.
+ Just, okay, it's not gay porn.
+ I can't remember that.
+ The final ever is, okay, I guess it's.
+ Okay, so it's a real sight.
+ It's not gay porn.
+ Remember that?
+ Yeah.
+ The guy put a plug in and was like, oh, it's gay porn.
+ I'm like, oh, oops.
+ Quick time.
+ It's low.
+ Can I try the last one?
+ It's coming.
+ It's been called awful.
+ And the biggest load of garbage in the world, not counting France.
+ It's the biggest cinematic event of this century.
+ Yes, all seven months of it.
+ It's Counter-Strike Radio.
+ The movie.
+ This spring, two seemingly innocent online radio DJs are framed for a crime they didn't commit.
+ And must discover people who framed them while avoiding the long arms of the guerrilla law enforcement squad.
+ All one day before their retirement.
+ That Hurd, the one who has no formal promise for education, is out for revenge as he battles Lebloski, the communist Nazi spy who also doubles as a pastor chef.
+ Be thrilled by the final showdown in the women's section of the Target store.
+ And since that Hurd must fight for his life and that nice frilly G-string he had his eye on.
+ At the same time, Yusucket, the unmarried one who is apparently from the Bronx, must save his long-time girlfriend who is dying after being gored by an angry and confused beaver which was told to take her out by the Natsuya, the squirrel mafia.
+ What on earth are squirrels doing hiring badges and attempting to kill Yusucket's lady love?
+ How exactly did they form a mafia when their main task lies in storing as many acorns as they can before winter sets in?
+ Through a terrible strip translation, that's how.
+ Director Rigiotto Scotti takes you on an action-packed rollercoaster ride when you go to see Counter-Strike Radio, the movie.
+ See that Hurd attending terrorist negotiations with deadly Ninja Walrus.
+ Here, Yusucket giggle as the half-man, half-weasel assassin attempts to kill him by shooting him with a feather.
+ Hurl a rather large rocket nebula, the half-boy, half-sheep, the occupants, and seven-cavier scriptwriter for a story that you'll never understand.
+ So if you only see one movie this spring, be sure not to waste your time and money on Counter-Strike Radio, the movie.
+ This spring, nothing is okay terrific.
+ Is that it?
+ It's like porn music, man.
+ It's like...
+ Oh, that's going to be in a WAV file somewhere.
+ Yeah, I'll have to put that somewhere.
+ Let's undo the phones, because we're near the bottom.
+ Okay.
+ And the phones are back open again.
+ Why do you always say that?
+ Why do you always say nice?
+ What?
+ Why do you always say that?
+ It's bloody annoying.
+ Oh, I was so...
+ Nice.
+ Wait, I say that.
+ No, we forgot CWT Timmy.
+ Oh, no.
+ Oh, my God.
+ Bunny is such a dick.
+ This is mostly to Bunny.
+ Can you stop fucking calling in, you dumbass impression of Sean O'Connor.
+ Newbie.
+ Newbie of the show.
+ How old are you, 10?
+ Nice, 12.
+ All right, top 15 reasons in the Counter-Strike Addict.
+ Oh, that should have been somewhere else.
+ It's too long.
+ No, it's too long.
+ Okay.
+ Well, maybe I'll take it apart and make it a top 10.
+ Yeah.
+ Black Knight.
+ Disappeared map.
+ Hello, guys.
+ I hope you read this thing.
+ First things, 1.3 rocks.
+ And I love every aspect of it.
+ Although I'm still getting lost and torn, storm.
+ Looks all about the same to me.
+ I wish to comment about something that I noticed.
+ A few weeks before 1.3 was released, I read there was going to be a map named VE Museum.
+ Yes.
+ I got a little beta, and I think it rocked.
+ Don't know what happened.
+ The URL is prehistoricplanet.com, 3D, 4D Museum.
+ It's really worth a try.
+ Actually, I want to do a play test on it.
+ See and keep up the good work.
+ So I think probably next week will be in the museum.
+ Oh, it's for you.
+ No?
+ Nope.
+ But he's got a better way of it.
+ I just realized how...
+ No, that's not him.
+ Counter-Strike Radio.
+ Who's this?
+ Knick-knack.
+ Hold it.
+ You can hear a click, and then you'll be on.
+ All right.
+ Let's do the next plug, and then we'll talk to him.
+ I can't read the next plug.
+ There we go.
+ All right.
+ This is from Dane Cook.
+ So when?
+ I was just thinking.
+ I want to see this where you're going to have stats for that server.
+ We do.
+ Very easily.
+ Very easily.
+ You put the IP of the server in your browser, and you slash stats, and that's it.
+ There you go.
+ Without the port?
+ No port.
+ No port.
+ Okay.
+ Just going to get a knick-knack on the phone.
+ Hey.
+ Hello.
+ Hey, what's up?
+ Hey, what's up?
+ I just wanted to laugh at Renegade and Mavic.
+ They've been trying to call in.
+ Nice.
+ I heard in the background.
+ Oh, man.
+ I can't say nice anymore.
+ I just started again, so I just quick call in.
+ Yeah, I used to thought I was going to be in Georgia, but we called out a quick flight
+ back, so that was cool.
+ Just been honing on the server a lot.
+ I just wanted to say that it's going to stay that way.
+ Oh, boy.
+ Until we get that cheat checker working, right?
+ Oh, yeah, yeah, right.
+ I'm reet.
+ I got all the hacks going on.
+ Nah.
+ I watched you a few times.
+ You're not cheating from where I can talk.
+ Especially when I start to suck, and then people are like, what happened?
+ You're not cheating anymore?
+ Nah.
+ Nah, I've been playing with, like, oh, man, everybody on there is awesome.
+ We do seem to catch a lot of them on the server, though.
+ Yeah.
+ Yeah.
+ I'm on there so much.
+ Like, I see so many.
+ I don't understand why everybody's, like, so hot for the admin command.
+ Like, everything that you really need, you can do with a vote.
+ Yeah.
+ Well, a lot of those people, you know what I noticed, though?
+ A lot of people don't vote if somebody on their team is cheating.
+ Because it's like one of those, like, there's never a cheater on your team, but the other team always cheats.
+ One of those deals.
+ Yeah.
+ I vote to kick anybody.
+ I mean, if anybody looks like they're cheating, I'll go to Spectator, check them out.
+ If it looks like they will, I'll start a vote.
+ Right.
+ Yeah.
+ And if we're on, like, a really gay map, I'll definitely start a vote for a new one.
+ No, that's fine.
+ I mean, we don't care about that.
+ I mean, don't hope.
+ A lot of people abuse it.
+ It gets really annoying.
+ Like, somebody will just keep voting for, like, assault or something.
+ Right.
+ Like, every five minutes.
+ And that gets really annoying.
+ You would need three promotions to get to be an asshole.
+ Other than that, it's been okay.
+ Yeah.
+ I mean, you know, we're trying to police it as much as we can.
+ You know, we've got four admins now, so that should help a little bit.
+ The whole thing is, is just, we try to be fair.
+ We were watching one guy today.
+ I was watching one guy, and, you know, I'm like, he looked like he was cheating, but, you
+ know, either the guy was really good at hiding it.
+ Yeah, I think I was in that game.
+ Yeah.
+ And, you know, I'm kind of, whenever you see me killing myself, I'm cheating, I'm, you
+ know.
+ Yeah, I know.
+ You were, like, negative three or something.
+ Yeah, because I'm, like, trying to, you know, just cheat check somebody.
+ Yeah, I've made a couple demos.
+ Most of them turned out, like, just to be no one players that were pretty good.
+ Right.
+ I always try to make a demo if I'm catching a cheater.
+ Yeah, me too.
+ I mean, that's, I've got demos of everybody I kicked.
+ Yeah, I didn't, I didn't really want to make this long phone call because I was just calling
+ in to, like, make fun of Mav and Renegade.
+ One of the easiest ways to detect if somebody's cheating, though, I've noticed, is because
+ of the auto-aim, the way it works is what they do is as soon as they hit fire, the auto-aim
+ turns on.
+ Yeah.
+ What you'll do is, I saw this before, one guy was at the other end of the map, and he
+ came around the corner, and the other guy was, you know, had his back to him, he ducked
+ down, shot him, the other guy started firing, and he did, and he spun 180 degrees.
+ Yeah, that was me, the guy spun on me.
+ Yeah, that was, I saw that again, I saw that again.
+ I was behind the boxes, and the guy's coming down, and he's, like, firing for no reason,
+ you know, pop, pop, pop, pop, pop, pop.
+ Yeah, and then there's the one, and as soon as he got there, he could actually, you know,
+ they're just, like, standing in a random area near nobody, and all of a sudden their head,
+ like, snapped one way.
+ Right, well, the whole thing is, is you can detect it because a lot of people don't leave
+ the auto-aim on all the time because it's, because I've seen people with that, and they're,
+ like, whack, you know, they just, they stay on, you know, matter where, you
+ know how they're jumping around or anything, but other people, like, the one we caught with
+ Steve, is this guy's running down the hallway, and he's just, like, pop, pop, pop, pop, you
+ know, and as soon as he got in where, you know, in other words, within his, within visual of
+ him, he snapped a Steve and blew his head off.
+ Yeah, he did a 90 degree turn at me, and he shouldn't even have known I was there.
+ Yeah.
+ That's fucking good.
+ Yeah, immediately, because the guy's just sitting there, you know, just tapping the fire
+ button, which turns on the bot for a second, and he's just testing, just trying
+ to see if he can find somebody.
+ But that, stuff like that is the way we're detecting them.
+ Yeah.
+ I'm pretty interested to hear about the program you guys were running on Quake.
+ Right.
+ Like, I used to play Quake all the time, and, like, Mega Team Fortress and all that.
+ Yeah.
+ You played Mega?
+ I never, I never heard about it.
+ Like, as soon as the source code was released, I stopped playing it, because it was just horrible.
+ Do we remember him from Mega?
+ I don't think so.
+ Was your name Knickknack in Mega?
+ Oh, yeah.
+ Yeah.
+ I guess you didn't listen to Mega Talk Radio or Mega TF Radio.
+ No, I was pretty inept back in those days.
+ I was just, like, at flight, but I didn't really know what I was doing.
+ We've got to check the list and see if he's using the name bot.
+ No, I'm kidding.
+ I'm kidding.
+ Yeah, but, you know, that's when we came out with QRI, and, you know, we had a couple of
+ servers that wanted to use it, but people wouldn't play on that server.
+ Yeah, it sounds like a really good idea.
+ I mean, I'd use it if you ported it to Half-Life.
+ Yeah, that's what we're trying.
+ But, again, we're not going to try to compete with Punkbuster.
+ Right, yeah.
+ Because it's too hard to come out with something brand new and say, oh, this is better than
+ Punkbuster.
+ Well, you know, it's like, okay, we'll have one server.
+ You know, but if Punkbuster's not going to be there, and we come out with something that
+ works, we'll have a thousand servers, you know, overnight, more or less, running it.
+ So that's what we're going to try.
+ You know, we're going to see what Punkbuster's doing, and we're going to come out with, we're
+ going to port over QRI.
+ All right, one more thing before I let you go, I'm going to just say, next year, if we're
+ still around playing Counter-Strike, and we've got the radio show still going on, I can probably
+ provide a server on a T1 line up in Georgia, down in Georgia, rather.
+ Oh, cool.
+ Yeah, so keep in mind, next year might be a possibility to get another one going on.
+ Well, you know, we'll still be around.
+ We don't plan on going anywhere.
+ All right?
+ Yep.
+ Thanks, man.
+ All right, no problem.
+ Bye, bye-bye.
+ Mmm, what's next?
+ All right, the hostage, I was the one that made CSRpranks.com.
+ Hi, Steve.
+ I just called a while ago and forgot to tell you, I was the one that created CSRpranks thing.
+ It's a problem, I'll shut it down.
+ It's my board, because, but the thing was, it wasn't really like, yeah, he could do like
+ CS pranks.
+ Did you hear what O.P. and Anthony are doing now?
+ What?
+ Gunnery Sergeant Hartman prank calls.
+ Oh, no.
+ What's your name, scumbag?
+ Oh, God, no.
+ Uh, Carmen Genovese.
+ Buffalo, New York land party.
+ Oh, that's close.
+ Agnation.com will be hosting a land party come September 29th and October 13th, uh, okay,
+ one of them passed, at Southgate Plaza near Buffalo, New York.
+ For more information, check out the site.
+ Thanks.
+ The show rocks.
+ So, we've still got the one for October 13th coming up.
+ Hello?
+ Hey.
+ Hey.
+ Hey.
+ Well, you said you had one thing to say.
+ Say it.
+ I think you did.
+ My only thing to say, I'm 14, not 12.
+ Oh, that's all you had to say?
+ Uh, yeah, that and, uh, whoever sent that plug in is going to expect a world of pain.
+ Oh, God.
+ Because I did not send that plug.
+ All right.
+ But we just, you know, we're just laughing.
+ I mean, I don't think it's really, you know, I don't think it's, anybody's really being
+ an asshole with it.
+ I mean, they're, you know, I don't know.
+ Oh, well.
+ That was still mean.
+ I knew it.
+ I'm surrounded.
+ All right.
+ Well, I'm going to get going.
+ Okay.
+ All right.
+ See you later.
+ Bye.
+ All right.
+ Bye.
+ Eh.
+ He's going to be a good kid one day.
+ Actually, no.
+ He's going to be a good kid.
+ He's going to be an axe murderer or something someday.
+ I don't know.
+ It's like, and it's all because of us.
+ We'll be on the news.
+ Uh.
+ Phone number.
+ What's the CS radio phone number?
+ Hmm.
+ You have to be in the, you have to be in the chat room for that one, folks.
+ Huh?
+ Okay.
+ Hold on a second.
+ Not too late.
+ Not too late.
+ Hello.
+ We got one on the phone.
+ One?
+ One.
+ Hello.
+ Hello.
+ Hey, what's up?
+ What's going on?
+ Hey, can you guys hear me?
+ Yeah.
+ Yeah, cool.
+ Hey, I haven't played on the server since, I don't know, last week, I think.
+ Oh, okay.
+ But, uh, there were a couple people using those smoke bombs little things that, when
+ you're sitting there trying to buy your ammo and stuff, they come and drop them on you
+ and you freeze.
+ That's still in 1.3?
+ Yeah, it was pissing me off.
+ I thought they fixed that.
+ I got stuck twice.
+ Oh.
+ Huh.
+ Oh.
+ What happened then?
+ You banned smoke bombs.
+ No, we'll, we'll, we'll have to see, we'll have to see if, uh, we can introduce it.
+ Well, we're back.
+ I can barely hear you.
+ Yeah, that's normal.
+ Oh, there we go.
+ Well, if there's an admin on there and someone does it to you, let them know, let the admin
+ know and...
+ Oh, yeah, definitely.
+ Yeah.
+ We'll just kick their ass or something.
+ Oh, thank God.
+ No, if you catch somebody doing a recorded demo or whatever and then send us their unique
+ ID, which you can do by just typing status, and we'll ban them, we'll ban them next time
+ we're on the server.
+ Oh, sweet.
+ Okay.
+ And, uh, well, I think there's a lot of changes on it, like during the day, when there's not
+ too many admins playing.
+ Yeah, well, that's why we, we just added two more.
+ Uh, the reason for that is during the day, uh, there's more of a chance of not being an
+ admin on there.
+ Yeah.
+ And those people are on there a lot.
+ Yeah, there is.
+ So, now, now we have the, you know, four admins, um, we should be able to break it
+ up nicely.
+ All right.
+ All right.
+ All right.
+ Take it easy.
+ Take it easy.
+ See you later.
+ All right.
+ Please change it.
+ You really need to change the day the show is played.
+ I'm always doing my homework at this time.
+ Yeah.
+ That's why it's recorded.
+ Yeah.
+ Sorry.
+ I can't.
+ This is the best day for us.
+ Yeah.
+ Oh, wait a minute.
+ I don't know if, uh, what is it, uh, dug up on how the...
+ Give me a good t-shirt.
+ I was walking out.
+ So, I do a point of shit.
+ I'm like, I'm American sucks.
+ I took my shit off.
+ I'm running fast.
+ I'm going back up.
+ And I fell on the ground.
+ I'm doing another thing.
+ I don't know.
+ Okay.
+ Whatever.
+ Sorry.
+ I can't take that one.
+ All right.
+ I can't smoke bombs.
+ No, I like...
+ In 1.3, it's gone.
+ That's what I thought.
+ I mean, I don't know.
+ We'll see.
+ It's supposed to be fixed.
+ Maybe he was playing before the server was fixed?
+ Maybe.
+ I don't know.
+ I don't know.
+ Because 1.3 is supposed to fix that.
+ Hey!
+ Hour and a half show?
+ Yeah.
+ Maverick?
+ Well, you can call now.
+ There's nobody on.
+ Oh, oh.
+ Too late.
+ Counter-Strike Radio.
+ Hey.
+ Who's this?
+ Oh, they're not screening them?
+ That's Renegade.
+ Hey, Renegade.
+ Hey, what's up?
+ Hey.
+ Uh, okay.
+ Finally got through.
+ Oh, freaking time.
+ Okay.
+ Forgot what you were going to say?
+ I can't hear you.
+ Okay.
+ We can hear you.
+ Okay.
+ Um, well, I have this thing about Punk Buster.
+ I made a post on the forum.
+ Uh-huh.
+ Yeah.
+ They said that Valve called them and they wanted to know about incorporating Punk Buster into
+ the game, right?
+ Okay.
+ Well, sort of.
+ Yeah.
+ Well, what was up with that?
+ Nothing.
+ We haven't heard anything in about a week.
+ Are you serious?
+ Yeah.
+ Yeah.
+ In other words, they said Valve, we've been contacted by a few companies.
+ That's what they said.
+ Yeah.
+ And that's the last bit of news.
+ There's been no news since that.
+ Unless they did it today.
+ Okay.
+ No, no, that was like, that's old.
+ That's really old.
+ Yeah.
+ Okay, so, uh, if Sue wanted me to say about the map B curse, he said it's really good.
+ He wants you guys to, you know, put it on the server, you know.
+ What, what, what map?
+ The curse.
+ Haven't seen it.
+ It's, uh, I'll post the link in the tab room after.
+ Oh, okay.
+ But, uh, the mapper is TWG7.
+ Do you know him?
+ No.
+ No?
+ Haven't heard of him.
+ Okay.
+ Why don't you try this?
+ What, what, um, what?
+ Why don't you post on the forum, okay, with the link, and we'll check it out, and we'll
+ see if we want to do a play test.
+ All right, I'll do that.
+ Okay?
+ Okay.
+ Because, I mean, we had one guy do it, uh, his map.
+ Yeah.
+ And, uh, he posted it on the forums, and it was kind of like, oh, my God, no.
+ Right.
+ No, it's just a really, some really, some really weird, uh, website.
+ No, what he did, he posted, like, here's the link to my map, and, uh, you know, we wanted
+ to check it out, and we'll check it out, and we'll see.
+ I mean, if it's something that I think people will enjoy, we'll do a play test.
+ Okay.
+ Okay, and if, uh, if people like it, you know, and if it's a really cool map, uh, we'll think
+ about adding it to the, uh, uh, the official, unofficial map pack.
+ Okay.
+ Okay?
+ All right, cool.
+ All right, up there.
+ Thanks for going.
+ Bye.
+ Nice.
+ I saw this one.
+ Oh, did you?
+ Yeah.
+ Lego porn.
+ Nice.
+ We only like goat porn, not Lego porn.
+ What do we got?
+ Here we go.
+ Uh, what's the site for that?
+ I don't know.
+ Eh.
+ Hello?
+ Counter-Strike Radio.
+ Hello?
+ Hey.
+ Who's this?
+ Aren't evil.
+ What's going on?
+ I'm us.
+ What's going on, guys?
+ Eh, not much.
+ Just getting ready to wrap the show up here.
+ What?
+ Just getting ready to wrap the show up.
+ Yeah, cool.
+ I can't hear what you're saying.
+ So we're just getting ready to wrap the show up.
+ All right.
+ Sorry.
+ I was going to say, anyway.
+ What's that?
+ I forgot what I was going to say.
+ Okay.
+ Sounds cool.
+ Son of a bitch.
+ All right.
+ Okay.
+ Terrific.
+ I'm going to call back another show.
+ All right, Ted.
+ Have a good day.
+ Oh, nice.
+ And we're not screening phone calls, folks.
+ So this could be dangerous.
+ All right.
+ I think that's it.
+ Yeah.
+ 927.
+ We did a nice hour and a half show.
+ Had a lot of fun.
+ We're just going through the last plugs over here on the side.
+ Who saw that?
+ Fox.
+ Never mind.
+ Okay.
+ Nice.
+ I was not saying that.
+ It annoys people.
+ Nice.
+ Never mind.
+ Okay.
+ Okay, guys.
+ Here's the plan.
+ Two more weeks.
+ We'll do another show.
+ And hopefully after that, we'll be doing a show every week.
+ Because it'll be nice and cold then.
+ And we won't want to do anything on Sunday.
+ What?
+ Do you have something to do next Sunday?
+ I don't know.
+ I don't know.
+ We'll see if we'll put...
+ Yeah.
+ Well, there's definitely one in two weeks.
+ We might do another one next week anyways.
+ Yeah.
+ So we'll see.
+ We'll keep an eye on the site.
+ Thanks for listening to the show.
+ We'll catch you guys next week.
+ Or the week after.
+ Add Docs.
+ Add Docs.
+ Docs is already in the pack.
+ Docs.
+ I really like the movie theater one.
+ It's kind of like, eh, 50-50.
+ We'll do like a poll thing.
+ Like which maps should make it in.
+ And, you know, I think this one will be in there too.
+ Official CSR site?
+ CS Radio Guild.
+ Guild.
+ Oh, that's cool.
+ Nice.
+ Ah, okay.
+ Terrific.
+ Hey, there's a poll.
+ Poll.
+ Where?
+ Take the poll here.
+ What the...
+ Ninja Fort.
+ Poll.
+ What do you think of T.E. Predator?
+ It was super reet.
+ It was reet.
+ It was only semi-reet.
+ Let's go play Dust.
+ Nice one.
+ All right, guys.
+ Let's see.
+ Yeah, let's end the show on a good note.
+ We're still bombing them.
+ Here we go.
+ All right.
+ Mm-hmm.
+ No, what do we want to do?
+ Uh...
+ How about the Mega 99 thing?
+ No, that's just...
+ We're listening to Mega TF Fortress Radio.
+ A Mega TF Radio production.
+ With your host, that hurt and you suck it.
+ Bringing you the top news reports.
+ That was great, man.
+ That was awesome.
+ I said that in that intro.
+ Did you?
+ Yeah, we'll have to play some of the old intros one of these days.
+ And, uh...
+ All right, guys.
+ Have a good night.
+ Take it easy.
+ Way out.
+ Boop.
+ Go, go, go, go, go, go, go, go, go, go, go, go, go.
+ Medic!
+ Medic!
+ Excuse me!
+ I'm in need of medical attention!
+ Go, go, go, go, go, go, go, go, go, go, go, go, go, go, go!
