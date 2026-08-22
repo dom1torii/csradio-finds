@@ -7,7 +7,8 @@ Restored version of the site is available at https://csradio.domitori.xyz or you
 
 ## History
 First 2 episodes of the show were pre-recorded by ThatHurt.  
-On December 12, 2000, first live show was held, joined by u_suk_it (he will also become a second main host of the show)  
+On December 12, 2000, first live show was held, joined by u_suk_it.
+Co-hosts included: u_suk_it, Damage INC and Nasgoul. 
 Live shows were held on Sundays at 8PM EST.
 
 ## Known episodes
@@ -25,7 +26,7 @@ The show ended on February 28, 2003. Reason for ending the show was ???
 <img width="498" height="290" alt="image" src="https://github.com/user-attachments/assets/75516170-6896-4c9c-aee7-b390b842f8c1" /><br>
 
 ## People 
-What we know about ThatHurt and u_suk_it:  
+What we know about the hosts:  
 ThatHurt's real name is Van. His steam profile is https://steamcommunity.com/profiles/76561197962329707.  
 u_suk_it real name is Steve.
 
