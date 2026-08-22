@@ -110,7 +110,7 @@ Live shows were held on Sundays at 8PM EST.
 </details>
 
 ## The end
-The show ended on February 28, 2003. Most likely the reason for ending the show was that people were losing their interest.  
+The show ended on February 28, 2003. Reason was people losing their interest?  
 "you can't keep one thing interesting for more than two years really. Happened to CS, now happens to CSR"  
 
 <img width="498" height="290" alt="image" src="https://github.com/user-attachments/assets/75516170-6896-4c9c-aee7-b390b842f8c1" /><br>
@@ -129,6 +129,11 @@ Call-in number was 1 (516) 882 0164 (Apparently registered in Messapequa, New Yo
 Latest archive of index.htm: https://web.archive.org/web/20031211231336/http://csradio.counter-strike.net/index.htm  
 Latest archive of /: https://web.archive.org/web/20031220125741/http://csradio.counter-strike.net:80/  
 Latest archive of the CSRadio forum: https://web.archive.org/web/20040206134631/http://csradio.counter-strike.net/cgi-bin/ubb/ultimatebb.cgi?ubb=forum&f=1
+Archive of almost every single CSRadio episode (not downloadable): https://web.archive.org/web/20031121175311/http://www.cscentral.com/files/pafiledb.php?action=category&id=1
+Old CSRadio site: https://web.archive.org/web/20011130062320/http://csradio.anticheater.com/
+Alternative URL? / Mirror?: https://web.archive.org/web/20021121112932/http://www.cs-radio.com:80/
+Some files: https://web.archive.org/web/20010202072900if_/http://file.cs-radio.com:80/
+
 
 
 ## Credits 
