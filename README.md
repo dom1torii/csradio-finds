@@ -134,7 +134,7 @@ Laser Guided Bunny Rabbit was a regular caller, met up with the hosts at Recon20
 ## Other
 CSRadio Youtube channel: https://www.youtube.com/user/CounterStrikeRadio  
 CSRadio Steam group: https://steamcommunity.com/groups/csr  
-Call-in number was 1 (516) 882 0164 (Apparently registered in Messapequa, New York)  
+Call-in number was 1 (516) 882 0164
 
 ## Archive
 Latest archive of index.htm: https://web.archive.org/web/20031211231336/http://csradio.counter-strike.net/index.htm  
