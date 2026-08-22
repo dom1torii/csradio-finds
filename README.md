@@ -11,7 +11,7 @@ On December 12, 2000, first live show was held, joined by u_suk_it.
 Co-hosts included: u_suk_it, Damage INC and Nasgoul. 
 Live shows were held on Sundays at 8PM EST.
 
-## Known episodes
+## Known episodes and recordings
 \* Episode file names are formatted `mmddyy.mp3`. For example 102101.mp3 would be a recording from November 21, 2001.
 - recon2000.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/recon2000.mp3) / [Youtube](https://youtu.be/jhHiF8n7vDo) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/recon2000.txt)) - One of the 3 episodes recorded at a large CS LAN party Recon2000 on 29th June 2001.
 - 070801.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/070801.mp3) / [Youtube](https://youtu.be/0wuJA45azEk) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/070801.txt)) - Recon2000 recap episode, recorded 1 week after the event.
@@ -21,7 +21,7 @@ Live shows were held on Sundays at 8PM EST.
 - 102101.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/102101.mp3) / [Youtube](https://youtu.be/YOYekSSCOYk) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/102101.txt)) - ???
 - 111801.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/111801.mp3) / [Youtube](https://youtu.be/Voh83FBX2gU) / [Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/111801.txt)) - ???
 
-## Missing episodes and other recordings
+## Missing recordings
 <details>
   <summary><h3>2000</h3></summary>
 
