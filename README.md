@@ -125,9 +125,11 @@ The show ended on February 28, 2003. Reason was people losing their interest?
 <img width="498" height="290" alt="image" src="https://github.com/user-attachments/assets/75516170-6896-4c9c-aee7-b390b842f8c1" /><br>
 
 ## People 
-What we know about the hosts:  
-ThatHurt's real name is Van. His steam profile is https://steamcommunity.com/profiles/76561197962329707.  
-u_suk_it real name is Steve.
+ThatHurt and u_suk_it were the main hosts?
+ThatHurt's real name is Van. Steam profile: https://steamcommunity.com/profiles/76561197962329707.  
+u_suk_it real name is Steve.  
+
+Laser Guided Bunny Rabbit was a regular caller, met up with the hosts at Recon2000. Steam profile: https://steamcommunity.com/id/LGBR
 
 ## Other
 CSRadio Youtube channel: https://www.youtube.com/user/CounterStrikeRadio  
