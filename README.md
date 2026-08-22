@@ -13,13 +13,13 @@ Live shows were held on Sundays at 8PM EST.
 
 ## Known episodes
 \* Episode file names are formatted `mmddyy.mp3`. For example 102101.mp3 would be a recording from November 21, 2001.
-- recon2000.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/recon2000.mp3)/[Youtube](https://youtu.be/jhHiF8n7vDo)) - One of the 3 episodes recorded at a large CS LAN party Recon2000 on 29th June 2001.
-- 070801.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/070801.mp3)/[Youtube](https://youtu.be/0wuJA45azEk)) - Recon2000 recap episode, recorded 1 week after the event.
-- 081201.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/081201.mp3)/[Youtube](https://youtu.be/W4X-PzFiGXs)) - ???
-- 092301.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/092301.mp3)/[Youtube](https://youtu.be/_hEjB2oyBN8)) - CS 1.3 is out.
-- 100701.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/100701.mp3)/[Youtube](https://youtu.be/ETWgsG_queQ)) - ???
-- 102101.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/102101.mp3)/[Youtube](https://youtu.be/YOYekSSCOYk)) - ???
-- 111801.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/111801.mp3)/[Youtube](https://youtu.be/Voh83FBX2gU)) - ???
+- recon2000.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/recon2000.mp3)/[Youtube](https://youtu.be/jhHiF8n7vDo)/[Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/recon2000.txt)) - One of the 3 episodes recorded at a large CS LAN party Recon2000 on 29th June 2001.
+- 070801.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/070801.mp3)/[Youtube](https://youtu.be/0wuJA45azEk)/[Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/070801.txt)) - Recon2000 recap episode, recorded 1 week after the event.
+- 081201.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/081201.mp3)/[Youtube](https://youtu.be/W4X-PzFiGXs)/[Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/081201.txt)) - ???
+- 092301.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/092301.mp3)/[Youtube](https://youtu.be/_hEjB2oyBN8)/[Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/092301.txt)) - CS 1.3 is out.
+- 100701.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/100701.mp3)/[Youtube](https://youtu.be/ETWgsG_queQ)/[Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/100701.txt)) - ???
+- 102101.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/102101.mp3)/[Youtube](https://youtu.be/YOYekSSCOYk)/[Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/102101.txt)) - ???
+- 111801.mp3 ([Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/episodes/111801.mp3)/[Youtube](https://youtu.be/Voh83FBX2gU)/[Transcript](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/transcripts/111801.txt)) - ???
 
 ## Missing episodes and other recordings
 <details>
