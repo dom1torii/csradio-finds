@@ -1,5 +1,5 @@
 # CSRadio
-CSRadio was a radio show about Counter-Strike started by ThatHurt in October 8, 2000.  
+CSRadio was a radio show about Counter-Strike started by ThatHurt on October 8, 2000.  
 
 <img src="images/main1.gif" /><br>
 CSRadio Intro: [Youtube](https://youtu.be/NO3zNESQoD0) / [Download](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/shockwave/intro.mp4) / [Download .swf](https://github.com/dom1torii/csradio-finds/raw/refs/heads/main/shockwave/intro.swf)  
