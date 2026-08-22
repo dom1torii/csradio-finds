@@ -122,12 +122,12 @@ u_suk_it real name is Steve.
 
 ## Other
 CSRadio Youtube channel: https://www.youtube.com/user/CounterStrikeRadio  
-CSRadio Steam group: https://steamcommunity.com/groups/csr
+CSRadio Steam group: https://steamcommunity.com/groups/csr  
 Call-in number was 1 (516) 882 0164 (Apparently registered in Messapequa, New York)  
 
 ## Archive
 Latest archive of index.htm: https://web.archive.org/web/20031211231336/http://csradio.counter-strike.net/index.htm  
-Latest archive of /: https://web.archive.org/web/20031220125741/http://csradio.counter-strike.net:80/
+Latest archive of /: https://web.archive.org/web/20031220125741/http://csradio.counter-strike.net:80/  
 Latest archive of the CSRadio forum: https://web.archive.org/web/20040206134631/http://csradio.counter-strike.net/cgi-bin/ubb/ultimatebb.cgi?ubb=forum&f=1
 
 
