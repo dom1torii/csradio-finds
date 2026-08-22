@@ -1,0 +1,98 @@
+<html>
+<head> <LINK 
+title="global css" href="http://csradio.counter-strike.net/csr.css" type=text/css 
+rel=stylesheet>
+<!--ktalk postnum:0-->
+<!-- Ad Code -->
+<div align=center>
+<IFRAME
+SRC="http://ads.gamespy.com/hserver/SITE=CS/GENRE=ACTION/TIER=3/AREA=HOSTED/AAMSZ=IAB_FULL_BANNER" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0
+FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=468 HEIGHT=60>
+<SCRIPT
+SRC="http://ads.gamespy.com/jserver/SITE=CS/GENRE=ACTION/TIER=3/AREA=HOSTED/AAMSZ=IAB_FULL_BANNER"></SCRIPT>
+<NOSCRIPT>
+   <A
+HREF="https://web.archive.org/web/20031211231336/http://ads.gamespy.com/jserver/SITE=CS/GENRE=ACTION/TIER=3/AREA=HOSTED/AAMSZ=IAB_FULL_BANNER">
+   <IMG
+SRC="http://ads.gamespy.com/jserver/SITE=CS/GENRE=ACTION/TIER=3/AREA=HOSTED/AAMSZ=IAB_FULL_BANNER">
+   </A>
+</NOSCRIPT>
+</IFRAME>
+</div>
+<!-- Ad Code -->
+
+<script>
+
+function setCookie(name, value) {
+	var exp = new Date();                                          // make new date object
+	exp.setTime(exp.getTime() + (1000 * 60 * 60 * 24 * 1000));     // set it 1000 days ahead
+	document.cookie = name + "=" + escape(value) + "; path=/; expires=" + exp.toGMTString();
+}
+
+function getcookie(strVariableName)
+{
+	
+	var intNameLength;
+	var intLocation;
+	var intVauleLength;
+	var intNextSemicolon;
+	var intcookLenght;
+	var strtemp;
+	var strcooktemp;
+	
+	intNameLength = strVariableName.length;
+	strcooktemp = document.cookie;
+	intcookLenght = strcooktemp.length;
+	intLocation = strcooktemp.indexOf(strVariableName,0);
+	if (intLocation == -1)
+		return null;
+	strtemp = strcooktemp.substr(intLocation);
+	if (strtemp.charAt(intNameLength)!="=")
+		return null;
+	intNextSemicolon = strtemp.indexOf(";");
+	if (intNextSemicolon == -1)
+		intNextSemicolon = (strtemp.length);
+	if (intNextSemicolon == (strtemp.length)+1)
+		return null;
+	intVauleLenght = intNextSemicolon-intNameLength-1;
+	strtemp = strtemp.substr(intNameLength+1,intVauleLenght);
+	return strtemp;
+}
+</script>
+<title>Discussing: VAC Is BACK (Update)</title>
+</head>
+
+<body bgcolor="#747474">
+<a href="../index.html">Back To CSR</a>
+<p>
+
+
+
+<b>{ <font color="#a6a857">VAC Is BACK (Update)</font> }</b><br>
+	<font size=1 color="#a6a857">posted Tuesday, September 24, 2002 by <a href="mailto:some1_call_911@canada.com">Some1 Call 911</a></font><br>
+	
+
+	Eric sends to every subscriber of the HLDS mailing list that VAC has been updated to detect all versions of OGC along with Joolz's OGC. Die cheaters :)<br><blockquote>We've updated the beta security modules. These beta security modules should detect all of the current versions of OGC and Joolz.<br><br>1) This beta test is only for Counter-Strike servers...not Day of Defeat.<br><br>2) The password for the beta security modules is still "vactest", so make sure you have...<br><br>-testmodule vactest<br><br>...in your command line and restart your server. If you're already running with the beta security module password in your command line, your server should upate itself.<br><br>3) We haven't heard of any problems with the Linux beta server we released. If you haven't already downloaded/installed it, you should consider doing so. This beta version should fix the problems some servers have been experiencing when we update the security modules. The Win32 version *does not* seem to have the same problem. <br><br><a href="https://web.archive.org/web/20031211231336/http://files.valve-erc.com/">http://files.valve-erc.com/</a><br>login: server_beta<br>pass: server_beta<br><br>filename: hlds_l_3110a_upgrade.tar.gz<br>engine build: 2147<br>md5: be4d624f929867993392b70c96cb43dc<br>files: readme_3110a.txt<br>engine_i386.so<br><br>All you need to do is download the file and replace your old one. It's always a good idea to back-up your old version first. Clients using 1.1.1.0/1.0.0.5 should not have any problems connecting to your server.<br><br>Let me know if you have any problems with the beta security modules and we'll look into them right away.<br><br>Thanks.<br><br>Eric Smith<br>VALVe</blockquote>Hopefully after VAC gets rid of OGC we can see it get rid of the rest of the smaller cheats since those seem to still be floating around. Keep it up VALVe. 
+	
+	<br>
+ 
+     <p><br>    
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://csradio.counter-strike.net/cgi-bin/newspronew/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1032866349,97818,Reports"><!--ktalk format 1-->
+
+<div class="news">Name: <input type="text" name="name"><br>
+<div class="news">Email: <input type="text" name="email"><br>
+<div class="news">Password: <input type="password" name="password"><br>
+<div class="news">Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+
+
+<input type="submit" value="Submit">
+<input type="reset" value="Reset" name="reset">
+<div class="news">Not Registered? <a href="http://csradio.counter-strike.net/cgi-bin/newspronew/ktalkpost.cgi?dispadduserform">Then Register</a>
+</body>
+</html>

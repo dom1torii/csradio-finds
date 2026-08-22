@@ -1,0 +1,108 @@
+body {
+  scrollbar-track-color: #777777;
+}
+
+.text {
+  font-size: 8pt;
+  color: white;
+  font-family: verdana;
+}
+A:link {
+  font-size: 9pt;
+  color: #babc92;
+  font-family: Verdana;
+  font-weight: bold;
+  text-decoration: none;
+}
+A:visited {
+  font-size: 9pt;
+  color: #a5a871;
+  font-weight: bold;
+  font-family: Verdana;
+  text-decoration: none;
+}
+A:active {
+  font-size: 9pt;
+  color: white;
+  font-weight: bold;
+  font-family: Verdana;
+  text-decoration: none;
+}
+A:hover {
+  font-family: Verdana;
+  color: white;
+  text-decoration: none;
+}
+TD.HeaderLinks {
+  border-right: 0px;
+  border-top: 0px;
+  border-left: 0px;
+  color: #ffffff;
+  border-bottom: 0px;
+  background-color: #001500;
+}
+TD.Headermid {
+  border-right: 0px;
+  border-top: 0px;
+  border-left: 0px;
+  color: #ffffff;
+  border-bottom: 0px;
+  background-color: #313131;
+}
+BODY {
+  padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  margin: 0px;
+  padding-top: 0px;
+  font-family: Arial;
+}
+.pic {
+  left: 1px;
+  position: absolute;
+  top: 20px;
+  z-order: 1;
+}
+.newshead {
+  font-weight: bold;
+  font-size: 12pt;
+  color: #ada369;
+  font-family: arial;
+}
+.news {
+  font-size: 9pt;
+  color: #c8c8c8;
+  font-family: Verdana;
+}
+.small {
+  font-size: 8pt;
+  color: black;
+  font-family: verdana;
+}
+.page_head {
+  font-size: 18pt;
+  color: #babc92;
+
+  font-family: verdana;
+}
+
+/*
+     FILE ARCHIVED ON 22:01:26 Feb 19, 2004 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:45:16 Aug 21, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.735
+  exclusion.robots: 0.056
+  exclusion.robots.policy: 0.043
+  esindex: 0.009
+  cdx.remote: 6.901
+  LoadShardBlock: 85.58 (3)
+  PetaboxLoader3.datanode: 69.743 (4)
+  PetaboxLoader3.resolve: 43.727 (2)
+  load_resource: 51.729
+*/

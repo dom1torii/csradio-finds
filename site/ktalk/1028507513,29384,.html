@@ -1,0 +1,98 @@
+<html>
+<head> <LINK 
+title="global css" href="http://csradio.counter-strike.net/csr.css" type=text/css 
+rel=stylesheet>
+<!--ktalk postnum:0-->
+<!-- Ad Code -->
+<div align=center>
+<IFRAME
+SRC="http://ads.gamespy.com/hserver/SITE=CS/GENRE=ACTION/TIER=3/AREA=HOSTED/AAMSZ=IAB_FULL_BANNER" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0
+FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=468 HEIGHT=60>
+<SCRIPT
+SRC="http://ads.gamespy.com/jserver/SITE=CS/GENRE=ACTION/TIER=3/AREA=HOSTED/AAMSZ=IAB_FULL_BANNER"></SCRIPT>
+<NOSCRIPT>
+   <A
+HREF="https://web.archive.org/web/20031211231336/http://ads.gamespy.com/jserver/SITE=CS/GENRE=ACTION/TIER=3/AREA=HOSTED/AAMSZ=IAB_FULL_BANNER">
+   <IMG
+SRC="http://ads.gamespy.com/jserver/SITE=CS/GENRE=ACTION/TIER=3/AREA=HOSTED/AAMSZ=IAB_FULL_BANNER">
+   </A>
+</NOSCRIPT>
+</IFRAME>
+</div>
+<!-- Ad Code -->
+
+<script>
+
+function setCookie(name, value) {
+	var exp = new Date();                                          // make new date object
+	exp.setTime(exp.getTime() + (1000 * 60 * 60 * 24 * 1000));     // set it 1000 days ahead
+	document.cookie = name + "=" + escape(value) + "; path=/; expires=" + exp.toGMTString();
+}
+
+function getcookie(strVariableName)
+{
+	
+	var intNameLength;
+	var intLocation;
+	var intVauleLength;
+	var intNextSemicolon;
+	var intcookLenght;
+	var strtemp;
+	var strcooktemp;
+	
+	intNameLength = strVariableName.length;
+	strcooktemp = document.cookie;
+	intcookLenght = strcooktemp.length;
+	intLocation = strcooktemp.indexOf(strVariableName,0);
+	if (intLocation == -1)
+		return null;
+	strtemp = strcooktemp.substr(intLocation);
+	if (strtemp.charAt(intNameLength)!="=")
+		return null;
+	intNextSemicolon = strtemp.indexOf(";");
+	if (intNextSemicolon == -1)
+		intNextSemicolon = (strtemp.length);
+	if (intNextSemicolon == (strtemp.length)+1)
+		return null;
+	intVauleLenght = intNextSemicolon-intNameLength-1;
+	strtemp = strtemp.substr(intNameLength+1,intVauleLenght);
+	return strtemp;
+}
+</script>
+<title>Discussing: Voice Comm interview</title>
+</head>
+
+<body bgcolor="#747474">
+<a href="../index.html">Back To CSR</a>
+<p>
+
+
+
+<b>{ <font color="#a6a857">Voice Comm interview</font> }</b><br>
+	<font size=1 color="#a6a857">posted Sunday, August 4, 2002 by <a href="mailto:usukit@counter-strike.net">u_suk_it[CSR]</a></font><br>
+	
+
+	The_Family_God, outkast, and I chatted with Valve's Erik Johnson for a few minutes the other day, and he answered a couple questions. I asked about the broadband codec that was rumored to be in development shortly after CS 1.3 was released. I thought people might like to know if it was in development and if so how far along the development was. Here's what was said:<br><br><Disk2[CSR]><br>ErikJ: Can you tell me anything about the broadband voice codec that was rumored to be in development for the voice comm system? Rumors have been floating around since the release of 1.3..<br><br><ErikJ><br>The broadband voice codec is more of a liscencing problem than a technical one.<br><br><Disk2[CSR]><br>But is it in development? Will it ever be released? Not even on the drawing board?<br><br><ErikJ><br>Right now Phillips owns the right for that codec, it's mainly used in Cell phones. We would need to have permission to redistribute from them to make it work. So far, we haven't had much luck talking to someone that can help us there.<br><br><The_Family_God> <br>Expensive liscencing fees perhaps too?<br><br><ErikJ><br>Haven't even got that far with them. There are some technical problems to solve also, since our voice traffic goes through the server and then down to the clients. We'd need to handle both codecs.<br><br><Disk2[CSR]><br>Oh another question about vcomm. Will it ever be possible to prevent certain people from hearing you over vcomm? Maybe like a private voice chat feature?<br><br><ErikJ><br>Not something we have planned right now.<br><br><Disk2[CSR]> k<br> 
+	
+	<br>
+ 
+     <p><br>    
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://csradio.counter-strike.net/cgi-bin/newspronew/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1028507513,29384,Reports"><!--ktalk format 1-->
+
+<div class="news">Name: <input type="text" name="name"><br>
+<div class="news">Email: <input type="text" name="email"><br>
+<div class="news">Password: <input type="password" name="password"><br>
+<div class="news">Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+
+
+<input type="submit" value="Submit">
+<input type="reset" value="Reset" name="reset">
+<div class="news">Not Registered? <a href="http://csradio.counter-strike.net/cgi-bin/newspronew/ktalkpost.cgi?dispadduserform">Then Register</a>
+</body>
+</html>
