@@ -148,4 +148,4 @@ Some files: https://web.archive.org/web/20010202072900if_/http://file.cs-radio.c
 
 
 ## Credits 
-https://www.youtube.com/@sd3mon for providing a lot of useful information and all the recordings
+https://www.youtube.com/@sd3mon for providing a lot of useful information and some of the recordings
